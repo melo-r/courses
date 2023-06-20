@@ -64,8 +64,8 @@
       <th>date</th>
       <th>num</th>
       <th>hour</th>
-      <th width="50%">course</th>
-      <th width="50%">institution</th>
+      <th width=100>course</th>
+      <th width=50>institution</th>
   </tr>
   <tr>
       <td>001</td>
