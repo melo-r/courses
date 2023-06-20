@@ -28,7 +28,7 @@
       <td>002</td>
       <td>2019-03</td>
       <td>01</td>
-      <td>12</td>
+      <td>08</td>
       <td><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">Big Data Fundamentos 2.0</a></td>
       <td><a href="https://www.datascienceacademy.com.br">Data Science Academy</a></td>
   </tr>
@@ -53,5 +53,6 @@
       <td><a href="https://www.gooddata.com">Gooddata</a></td>
   </tr>
 </table>
+
 
 </html>
