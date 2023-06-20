@@ -13,22 +13,22 @@
   <a href="https://www.simplilearn.com/big-data-and-analytics/python-for-data-science-training">049 2021MAY 11 Data Science with Python</a><br>
 
   <table border="1">
-    <caption><b>2018</b></caption>
+    <caption><h1><b>2018</b></h1></caption>
     <tr>
         <th>id</th>
-        <td>date</td>
-        <td>num</td>
-	<td>hour</td>
-	<td><center>course</center></td>
-	<td>institution</td>
+        <th>date</th>
+        <th>num</th>
+	<th>hour</th>
+	<center><th>course</th></center>
+	<th>institution</th>
     </tr>
     <tr>
         <td>001</td>
         <td>2018-02</td>
         <td>01</td>
 		<td>02</td>
-		<td>GoodData Essentials</td>
-		<td>link</td>
+		<td><a href="http://www.academy.fluig.com/certificates/5a7840327c31a4005cc9ef70">GoodData Essentials</a></td>
+		<td><a href="http://www.academy.fluig.com"></td>Fluig Academy</a></td>
     </tr>
     <tr>
         <td>002</td>
