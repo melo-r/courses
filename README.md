@@ -42,6 +42,7 @@
       <th>hour</th>
       <th>course</th>
       <th>institution</th>
+      <th>certification</th>
   </tr>
   <tr>
       <td>002</td>
@@ -50,6 +51,7 @@
       <td>08:00</td>
       <td><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">Big Data Fundamentos 2.0</a></td>
       <td><a href="https://www.datascienceacademy.com.br">Data Science Academy</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000%20certs/002%20Big%20Data%20Fundamentos%202.0.png">certification</a></td>
   </tr>
 </table>
 
