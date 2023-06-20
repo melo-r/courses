@@ -22,7 +22,7 @@
       <th>hour</th>
       <th width=400>course</th>
       <th width=300>institution</th>
-      <th width=100>certification</th>
+      <th width=80>certification</th>
   </tr>
   <tr>
       <td>003</td>
@@ -44,7 +44,7 @@
       <th>hour</th>
       <th width=400>course</th>
       <th width=300>institution</th>
-      <th width=100>certification</th>
+      <th width=70>certification</th>
   </tr>
   <tr>
       <td>002</td>
@@ -66,7 +66,7 @@
       <th>hour</th>
       <th width=400>course</th>
       <th width=300>institution</th>
-      <th width=100>certification</th>
+      <th width=50>certification</th>
   </tr>
   <tr>
       <td>001</td>
@@ -75,6 +75,7 @@
       <td>02:00</td>
       <td><a href="http://www.academy.fluig.com/certificates/5a7840327c31a4005cc9ef70">GoodData Essentials</a></td>
       <td><a href="https://www.gooddata.com">Gooddata</a></td>
+      <td></td>
   </tr>
 </table>
 
