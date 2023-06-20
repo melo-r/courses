@@ -64,13 +64,13 @@
       <th>date</th>
       <th>num</th>
       <th>hour</th>
-      <th width=400>course</th>
+      <th width=350>course</th>
       <th width=150>institution</th>
       <th>certification</th>
   </tr>
   <tr>
       <td>001</td>
-      <td>2018-02-02</td>
+      <td>20180202</td>
       <td>01</td>
       <td>02:00</td>
       <td><a href="http://www.academy.fluig.com/certificates/5a7840327c31a4005cc9ef70">GoodData Essentials</a></td>
