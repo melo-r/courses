@@ -44,7 +44,7 @@
       <th>hour</th>
       <th width=400>course</th>
       <th width=250>institution</th>
-      <th>certification</th>
+      <th>cert</th>
   </tr>
   <tr>
       <td>002</td>
@@ -53,7 +53,7 @@
       <td>08:00</td>
       <td><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">Big Data Fundamentos 2.0</a></td>
       <td><a href="https://www.datascienceacademy.com.br">Data Science Academy</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/002%20Big%20Data%20Fundamentos%202.0.png">certification</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/002%20Big%20Data%20Fundamentos%202.0.png">cert</a></td>
   </tr>
 </table>
 
@@ -64,9 +64,9 @@
       <th>date</th>
       <th>num</th>
       <th>hour</th>
-      <th width=350>course</th>
+      <th width=400>course</th>
       <th width=250>institution</th>
-      <th>certification</th>
+      <th>cert</th>
   </tr>
   <tr>
       <td>001</td>
