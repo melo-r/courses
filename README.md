@@ -64,16 +64,16 @@
       <th>date</th>
       <th>num</th>
       <th>hour</th>
-      <th>course</th>
-      <th>institution</th>
+      <th width="50%">course</th>
+      <th width="50%">institution</th>
   </tr>
   <tr>
       <td>001</td>
       <td>2018-02-02</td>
       <td>01</td>
       <td>02:00</td>
-      <td width="50%"><a href="http://www.academy.fluig.com/certificates/5a7840327c31a4005cc9ef70">GoodData Essentials</a></td>
-      <td width="50%"><a href="https://www.gooddata.com">Gooddata</a></td>
+      <td"><a href="http://www.academy.fluig.com/certificates/5a7840327c31a4005cc9ef70">GoodData Essentials</a></td>
+      <td"><a href="https://www.gooddata.com">Gooddata</a></td>
   </tr>
 </table>
 
