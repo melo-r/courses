@@ -20,13 +20,13 @@
       <th>date</th>
       <th>num</th>
       <th>hour</th>
-      <th width=400>course</th>
-      <th width=200>institution</th>
+      <th width=350>course</th>
+      <th width=150>institution</th>
       <th>certification</th>
   </tr>
   <tr>
       <td>003</td>
-      <td>2019-04-28</td>
+      <td>20190428</td>
       <td>01</td>
       <td>01:20</td>
       <td><a href="https://www.linkedin.com/learning/kafka-essential-training">Kafka Essential Training</a></td>
@@ -42,13 +42,13 @@
       <th>date</th>
       <th>num</th>
       <th>hour</th>
-      <th width=400>course</th>
-      <th width=200>institution</th>
+      <th width=350>course</th>
+      <th width=150>institution</th>
       <th>certification</th>
   </tr>
   <tr>
       <td>002</td>
-      <td>2019-03-19</td>
+      <td>20190319</td>
       <td>01</td>
       <td>08:00</td>
       <td><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">Big Data Fundamentos 2.0</a></td>
