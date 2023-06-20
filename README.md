@@ -12,31 +12,46 @@
   <a href="https://www.linkedin.com/learning/python-object-oriented-programming">050 2021JUN 12 OOP Python Object-Oriented Programming</a><br>
   <a href="https://www.simplilearn.com/big-data-and-analytics/python-for-data-science-training">049 2021MAY 11 Data Science with Python</a><br>
 
-  <table border="1">
-    <caption><h1><b>2018</b></h1></caption>
-    <tr>
-        <th>id</th>
-        <th>date</th>
-        <th>num</th>
-	<th>hour</th>
-	<th>course</th>
-	<th>institution</th>
-    </tr>
-    <tr>
-        <td>001</td>
-        <td>2018-02</td>
-        <td>01</td>
-	<td>02</td>
-	<td><a href="http://www.academy.fluig.com/certificates/5a7840327c31a4005cc9ef70">GoodData Essentials</a></td>
-	<td><a href="https://www.gooddata.com">Gooddata</a></td>
-    </tr>
-    <tr>
-        <td>002</td>
-        <td>2019-03</td>
-        <td>01</td>
-		<td>02</td>
-		<td><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">Big Data Fundamentos 2.0</a></td>
-		<td><a href="https://www.datascienceacademy.com.br">Data Science Academy</a></td>
-    </tr>
+<br>
+
+<table border="1">
+  <caption><b>2019</b></caption>
+  <tr>
+      <th>id</th>
+      <th>date</th>
+      <th>num</th>
+      <th>hour</th>
+      <th>course</th>
+      <th>institution</th>
+  </tr>
+  <tr>
+      <td>002</td>
+      <td>2019-03</td>
+      <td>01</td>
+      <td>12</td>
+      <td><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">Big Data Fundamentos 2.0</a></td>
+      <td><a href="https://www.datascienceacademy.com.br">Data Science Academy</a></td>
+  </tr>
 </table>
+
+<table border="1">
+  <caption><b>2018</b></caption>
+  <tr>
+      <th>id</th>
+      <th>date</th>
+      <th>num</th>
+      <th>hour</th>
+      <th>course</th>
+      <th>institution</th>
+  </tr>
+  <tr>
+      <td>001</td>
+      <td>2018-02</td>
+      <td>01</td>
+      <td>02</td>
+      <td><a href="http://www.academy.fluig.com/certificates/5a7840327c31a4005cc9ef70">GoodData Essentials</a></td>
+      <td><a href="https://www.gooddata.com">Gooddata</a></td>
+  </tr>
+</table>
+
 </html>
