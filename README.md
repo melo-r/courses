@@ -22,7 +22,7 @@
       <th>hour</th>
       <th width=400>course</th>
       <th width=300>institution</th>
-      <th width=80>certification</th>
+      <th>certification</th>
   </tr>
   <tr>
       <td>003</td>
@@ -44,7 +44,7 @@
       <th>hour</th>
       <th width=400>course</th>
       <th width=300>institution</th>
-      <th width=70>certification</th>
+      <th>certification</th>
   </tr>
   <tr>
       <td>002</td>
@@ -66,7 +66,7 @@
       <th>hour</th>
       <th width=400>course</th>
       <th width=300>institution</th>
-      <th width=50>certification</th>
+      <th>certification</th>
   </tr>
   <tr>
       <td>001</td>
