@@ -20,9 +20,9 @@
       <th>date</th>
       <th>num</th>
       <th>hour</th>
-      <th>course</th>
       <th width=400>course</th>
       <th width=300>institution</th>
+      <th width=100>certification</th>
   </tr>
   <tr>
       <td>003</td>
@@ -42,9 +42,9 @@
       <th>date</th>
       <th>num</th>
       <th>hour</th>
-      <th>course</th>
       <th width=400>course</th>
       <th width=300>institution</th>
+      <th width=100>certification</th>
   </tr>
   <tr>
       <td>002</td>
