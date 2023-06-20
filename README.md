@@ -22,6 +22,7 @@
       <th>hour</th>
       <th>course</th>
       <th>institution</th>
+      <th>certification</th>
   </tr>
   <tr>
       <td>003</td>
@@ -30,6 +31,7 @@
       <td>01:20</td>
       <td><a href="https://www.linkedin.com/learning/kafka-essential-training">Kafka Essential Training</a></td>
       <td><a href="https://www.linkedin.com/learning/certificates/3d10db4b40a97dad86394f8dc0f85f03986eb2745fc90d2d656e7d8713957c4d">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000%20certs/003%20Kafka%20Essential%20Training.png">certification</a></td>
   </tr>
 </table>
 
