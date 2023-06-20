@@ -43,7 +43,7 @@
       <th>num</th>
       <th>hour</th>
       <th width=350>course</th>
-      <th width=200>institution</th>
+      <th width=250>institution</th>
       <th>certification</th>
   </tr>
   <tr>
