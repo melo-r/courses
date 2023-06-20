@@ -19,16 +19,16 @@
         <th>date</th>
         <th>num</th>
 	<th>hour</th>
-	<center><th>course</th></center>
+	<th>course</th>
 	<th>institution</th>
     </tr>
     <tr>
         <td>001</td>
         <td>2018-02</td>
         <td>01</td>
-		<td>02</td>
-		<td><a href="http://www.academy.fluig.com/certificates/5a7840327c31a4005cc9ef70">GoodData Essentials</a></td>
-		<td><a href="http://www.academy.fluig.com"></td>Fluig Academy</a></td>
+	<td>02</td>
+	<td><a href="http://www.academy.fluig.com/certificates/5a7840327c31a4005cc9ef70">GoodData Essentials</a></td>
+	<td><a href="http://www.academy.fluig.com">Fluig Academy</a></td>
     </tr>
     <tr>
         <td>002</td>
