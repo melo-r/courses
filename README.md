@@ -28,7 +28,7 @@
         <td>01</td>
 	<td>02</td>
 	<td><a href="http://www.academy.fluig.com/certificates/5a7840327c31a4005cc9ef70">GoodData Essentials</a></td>
-	<td><a href="http://www.academy.fluig.com">Fluig Academy</a></td>
+	<td><a href="https://www.gooddata.com">Gooddata</a></td>
     </tr>
     <tr>
         <td>002</td>
