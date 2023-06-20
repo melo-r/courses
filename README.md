@@ -18,11 +18,11 @@
   <tr>
       <th>id</th>
       <th>date</th>
-      <th>num</th>
+      <th>n</th>
       <th>hour</th>
-      <th width=350>course</th>
-      <th width=200>institution</th>
-      <th>certification</th>
+      <th width=400>course</th>
+      <th width=250>institution</th>
+      <th>cert</th>
   </tr>
   <tr>
       <td>003</td>
@@ -40,7 +40,7 @@
   <tr>
       <th>id</th>
       <th>date</th>
-      <th>num</th>
+      <th>n</th>
       <th>hour</th>
       <th width=400>course</th>
       <th width=250>institution</th>
@@ -62,7 +62,7 @@
   <tr>
       <th>id</th>
       <th>date</th>
-      <th>num</th>
+      <th>n</th>
       <th>hour</th>
       <th width=400>course</th>
       <th width=250>institution</th>
