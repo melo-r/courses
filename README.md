@@ -13,14 +13,14 @@
   <a href="https://www.simplilearn.com/big-data-and-analytics/python-for-data-science-training">049 2021MAY 11 Data Science with Python</a><br>
 
   <table border="1">
-    <caption>2018</caption>
-    <tr><b>
-        <td>id</td>
+    <caption><b>2018</b></caption>
+    <tr>
+        <th>id</th>
         <td>date</td>
         <td>num</td>
 	<td>hour</td>
 	<td>course</td>
-	<td>institution</td></b>
+	<td>institution</td>
     </tr>
     <tr>
         <td>001</td>
@@ -36,7 +36,7 @@
         <td>01</td>
 		<td>02</td>
 		<td><a href="https://www.google.com">Big Data Fundamentos 2.0</a></td>
-		<td><a href="[uol.com](https://www.folha.uol.com.br/)">Data Science Academy</a></td>
+		<td><a href="https://www.folha.uol.com.br">Data Science Academy</a></td>
     </tr>
 </table>
 </html>
