@@ -26,7 +26,7 @@
   </tr>
   <tr>
       <td>002</td>
-      <td>2019-03</td>
+      <td>2019-03-19</td>
       <td>01</td>
       <td>08</td>
       <td><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">Big Data Fundamentos 2.0</a></td>
@@ -46,7 +46,7 @@
   </tr>
   <tr>
       <td>001</td>
-      <td>2018-02</td>
+      <td>2018-02-02</td>
       <td>01</td>
       <td>02</td>
       <td><a href="http://www.academy.fluig.com/certificates/5a7840327c31a4005cc9ef70">GoodData Essentials</a></td>
