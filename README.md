@@ -31,7 +31,7 @@
       <td>01:20</td>
       <td><a href="https://www.linkedin.com/learning/kafka-essential-training">Kafka Essential Training</a></td>
       <td><a href="https://www.linkedin.com/learning/certificates/3d10db4b40a97dad86394f8dc0f85f03986eb2745fc90d2d656e7d8713957c4d">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000%20certs/003%20Kafka%20Essential%20Training.png">certification</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/003%20Kafka%20Essential%20Training.png">certification</a></td>
   </tr>
 </table>
 
@@ -53,7 +53,7 @@
       <td>08:00</td>
       <td><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">Big Data Fundamentos 2.0</a></td>
       <td><a href="https://www.datascienceacademy.com.br">Data Science Academy</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000%20certs/002%20Big%20Data%20Fundamentos%202.0.png">certification</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/002%20Big%20Data%20Fundamentos%202.0.png">certification</a></td>
   </tr>
 </table>
 
