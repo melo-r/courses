@@ -66,6 +66,7 @@
       <th>hour</th>
       <th width=400>course</th>
       <th width=300>institution</th>
+      <th width=100>certification</th>
   </tr>
   <tr>
       <td>001</td>
