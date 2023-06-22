@@ -116,8 +116,17 @@
   </tr>
   <tr>
       <td>013</td>
-      <td>202005XX</td>
+      <td>20200506</td>
       <td>11</td>
+      <td>03:13</td>
+      <td><a href="https://www.linkedin.com/learning/cloud-hadoop-scaling-apache-spark">Cloud Hadoop: Scaling Apache Spark</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/4113012eeaeceefa8f5bbbd69d7051af4d696457f1f551be8691e20c806eba22">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/013%20Cloud%20Hadoop-Scaling%20Apache%20Spark.png">cert</a></td>   
+  </tr>
+  <tr>
+      <td>014</td>
+      <td>202005XX</td>
+      <td>12</td>
       <td>00:00</td>
       <td><a href="">A</a></td>
       <td><a href="">Datacamp</a></td>
