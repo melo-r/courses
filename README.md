@@ -179,12 +179,12 @@
   </tr>
   <tr>
       <td>020</td>
-      <td>202005XX</td>
+      <td>20200502</td>
       <td>18</td>
-      <td>00:00</td>
-      <td><a href="">A</a></td>
-      <td><a href="">LinkedIn Learning</a></td>
-      <td><a href="">cert</a></td>   
+      <td>04:30</td>
+      <td><a href="https://www.udemy.com/course/learning-apache-hive/">Apache Hadoop EcoSystem-Hive</a></td>
+      <td><a href="https://www.udemy.com/certificate/UC-43fdd42c-0d2b-422b-b2c8-708e131edae5/">Udemy</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/020%20Apache%20Hadoop%20EcoSystem-Hive.png">cert</a></td>   
   </tr>
 
 </table>
