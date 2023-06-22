@@ -125,8 +125,17 @@
   </tr>
   <tr>
       <td>014</td>
-      <td>202005XX</td>
+      <td>20200522</td>
       <td>12</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/cleaning-data-with-pyspark">Cleaning Data with PySpark</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/b4334ef9fd0e2fe80317f8916a0ab092a6584863">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/014%20Cleaning%20Data%20with%20PySpark.png">cert</a></td>   
+  </tr>
+  <tr>
+      <td>015</td>
+      <td>202005XX</td>
+      <td>13</td>
       <td>00:00</td>
       <td><a href="">A</a></td>
       <td><a href="">Datacamp</a></td>
