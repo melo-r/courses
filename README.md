@@ -32,20 +32,15 @@
       <td><a href="https://www.linkedin.com/learning/kafka-essential-training">Kafka Essential Training</a></td>
       <td><a href="https://www.linkedin.com/learning/certificates/3d10db4b40a97dad86394f8dc0f85f03986eb2745fc90d2d656e7d8713957c4d">LinkedIn Learning</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/003%20Kafka%20Essential%20Training.png">cert</a></td>
-    
+  </tr>
+  <tr>  
       <td>004</td>
-      <td>20200561</td>
+      <td>20200516</td>
       <td>02</td>
       <td>01:50</td>
       <td><a href="https://www.linkedin.com/learning/transitioning-from-data-warehousing-to-big-data">Transitioning from Data Warehousing to Big Data</a></td>
       <td><a href="https://www.linkedin.com/learning/certificates/d858f1f701dc3df12f7ba43bad64b184e79b397261c614d9d90d3740e81415e2">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/004%20Transitioning%20from%20Data%20Warehousing%20to%20Big%20Data.png">cert</a></td>
-
-
-
-
-
-    
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/004%20Transitioning%20from%20Data%20Warehousing%20to%20Big%20Data.png">cert</a></td>   
   </tr>
 </table>
 
