@@ -161,12 +161,12 @@
   </tr>
   <tr>
       <td>018</td>
-      <td>202005XX</td>
+      <td>20200510</td>
       <td>16</td>
-      <td>00:00</td>
-      <td><a href="">A</a></td>
-      <td><a href="">Datacamp</a></td>
-      <td><a href="">cert</a></td>   
+      <td>01:53</td>
+      <td><a href="https://www.linkedin.com/learning/analyzing-big-data-with-hive">Analyzing Big Data with Hive</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/8ca4abd53afea025bdd99dfe86212af4b4d9f734c12b147a7e01b62c162ccd20">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/018%20Analyzing%20Big%20Data%20with%20Hive.png">cert</a></td>   
   </tr>
   <tr>
       <td>019</td>
@@ -174,7 +174,16 @@
       <td>17</td>
       <td>00:00</td>
       <td><a href="">A</a></td>
-      <td><a href="">Datacamp</a></td>
+      <td><a href="">LinkedIn Learning</a></td>
+      <td><a href="">cert</a></td>   
+  </tr>
+  <tr>
+      <td>020</td>
+      <td>202005XX</td>
+      <td>18</td>
+      <td>00:00</td>
+      <td><a href="">A</a></td>
+      <td><a href="">LinkedIn Learning</a></td>
       <td><a href="">cert</a></td>   
   </tr>
 
