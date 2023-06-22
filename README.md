@@ -1,6 +1,6 @@
 # courses
 <html>
-  I'm updating this area here you can access all the courses I've taken
+  I'm updating this area below you can access all the courses I've taken
   <br>
   <a target="_blank" href="https://www.linkedin.com/in/melo-r/details/certifications">my courses and certifications</a>
   <br><br>
@@ -42,7 +42,7 @@
       <td><a href="https://www.linkedin.com/learning/certificates/d858f1f701dc3df12f7ba43bad64b184e79b397261c614d9d90d3740e81415e2">LinkedIn Learning</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/004%20Transitioning%20from%20Data%20Warehousing%20to%20Big%20Data.png">cert</a></td>   
   </tr>
-    <tr>
+  <tr>
       <td>005</td>
       <td>20200514</td>
       <td>03</td>
@@ -51,8 +51,7 @@
       <td><a href="https://www.linkedin.com/learning/certificates/46070217dfd1ce21366e84e608aecc8078fb44602e8f6196f280396a86ec9193">LinkedIn Learning</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/005%20Learn%20Apache%20Kafka%20for%20Beginners.png">cert</a></td>   
   </tr>
-  </tr>
-    <tr>
+  <tr>
       <td>006</td>
       <td>20200518</td>
       <td>04</td>
@@ -60,6 +59,24 @@
       <td><a href="https://learn.datacamp.com/courses/introduction-to-pyspark">Introduction to PySpark</a></td>
       <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/fa6abdcbb2cacf93f9451c6cc74da19cdedb1bc1">Datacamp</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/006%20Introduction%20to%20PySpark.png">cert</a></td>   
+  </tr>
+  <tr>
+      <td>007</td>
+      <td>20200519</td>
+      <td>05</td>
+      <td>03:00</td>
+      <td><a href="https://learn.datacamp.com/courses/introduction-to-importing-data-in-python">Introduction to Importing Data in Python</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/292ec41751312ed628388d5ad0c6ff51c936fe30">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/007%20Introduction%20to%20Importing%20Data%20in%20Python.png">cert</a></td>   
+  </tr>
+  <tr>
+      <td>008</td>
+      <td>202005XX</td>
+      <td>05</td>
+      <td>00:00</td>
+      <td><a href="">A</a></td>
+      <td><a href="">Datacamp</a></td>
+      <td><a href="">cert</a></td>   
   </tr>
 
 </table>
