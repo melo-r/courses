@@ -42,7 +42,18 @@
       <td><a href="https://www.linkedin.com/learning/certificates/d858f1f701dc3df12f7ba43bad64b184e79b397261c614d9d90d3740e81415e2">LinkedIn Learning</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/004%20Transitioning%20from%20Data%20Warehousing%20to%20Big%20Data.png">cert</a></td>   
   </tr>
+    <tr>
+      <td>005</td>
+      <td>20200514</td>
+      <td>03</td>
+      <td>07:32</td>
+      <td><a href="https://www.linkedin.com/learning/learn-apache-kafka-for-beginners-2019">Learn Apache Kafka for Beginners</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/46070217dfd1ce21366e84e608aecc8078fb44602e8f6196f280396a86ec9193">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/005%20Learn%20Apache%20Kafka%20for%20Beginners.png">cert</a></td>   
+  </tr>
+
 </table>
+
 
 <table border="1">
   <caption><b>2019</b></caption>
