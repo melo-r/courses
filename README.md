@@ -152,8 +152,26 @@
   </tr>
   <tr>
       <td>017</td>
-      <td>202005XX</td>
+      <td>20200511</td>
       <td>15</td>
+      <td>01:40</td>
+      <td><a href="https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-2017">Apache Spark Essential Training: Big Data Engineering</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/df6e96107dc8df446697d904eac3754fcb0d5a9c350bd31990b184dd059d2729">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/017%20Apache%20Spark%20Essential%20Training-Big%20Data%20Engineering.png">cert</a></td>   
+  </tr>
+  <tr>
+      <td>018</td>
+      <td>202005XX</td>
+      <td>16</td>
+      <td>00:00</td>
+      <td><a href="">A</a></td>
+      <td><a href="">Datacamp</a></td>
+      <td><a href="">cert</a></td>   
+  </tr>
+  <tr>
+      <td>019</td>
+      <td>202005XX</td>
+      <td>17</td>
       <td>00:00</td>
       <td><a href="">A</a></td>
       <td><a href="">Datacamp</a></td>
