@@ -80,17 +80,26 @@
   </tr>
   <tr>
       <td>009</td>
+      <td>20200520</td>
+      <td>07</td>
+      <td>02:00</td>
+      <td><a href="https://learn.datacamp.com/courses/intermediate-importing-data-in-python">Intermediate Importing Data in Python</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/84f24f9fbfe68f38209ea045f798483110515ed3">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/009%20Intermediate%20Importing%20Data%20in%20Python.png">cert</a></td>   
+  </tr>
+  <tr>
+      <td>010</td>
       <td>202005XX</td>
-      <td>05</td>
+      <td>08</td>
       <td>00:00</td>
       <td><a href="">A</a></td>
       <td><a href="">Datacamp</a></td>
       <td><a href="">cert</a></td>   
   </tr>
   <tr>
-      <td>009</td>
+      <td>010</td>
       <td>202005XX</td>
-      <td>05</td>
+      <td>08</td>
       <td>00:00</td>
       <td><a href="">A</a></td>
       <td><a href="">Datacamp</a></td>
