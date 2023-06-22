@@ -71,6 +71,24 @@
   </tr>
   <tr>
       <td>008</td>
+      <td>20200517</td>
+      <td>06</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/introduction-to-data-engineering">Introduction do Data Enginnering</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/b8588d8eea22e28ca9c8f4c6ab74598eca57d234">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/008%20Introduction%20do%20Data%20Enginnering.png">cert</a></td>   
+  </tr>
+  <tr>
+      <td>009</td>
+      <td>202005XX</td>
+      <td>05</td>
+      <td>00:00</td>
+      <td><a href="">A</a></td>
+      <td><a href="">Datacamp</a></td>
+      <td><a href="">cert</a></td>   
+  </tr>
+  <tr>
+      <td>009</td>
       <td>202005XX</td>
       <td>05</td>
       <td>00:00</td>
