@@ -4,6 +4,8 @@
   <br>
   <a href="https://www.linkedin.com/in/melo-r/details/certifications" target="_blank">my courses and certifications</a>
   <br><br>
+<a target="_blank" rel="noopener noreferrer" href="/JonWeber0328/Data_Mining_In_Python_LinkedIn_Learning/blob/main/Images/2.png"><img src="/JonWeber0328/Data_Mining_In_Python_LinkedIn_Learning/raw/main/Images/2.png" alt="slide" style="max-width: 100%;"></a>
+  <br>
   <b>2023</b><br>  
   <b>2022</b><br>
   <b>2021</b><br>
