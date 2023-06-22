@@ -38,7 +38,7 @@
       <td>20200516</td>
       <td>02</td>
       <td>01:50</td>
-      <td><a href="https://www.linkedin.com/learning/transitioning-from-data-warehousing-to-big-data">Transitioning from Data Warehousing to Big Data</a></td>
+      <td><a href="https://www.linkedin.com/learning/transitioning-from-data-warehousing-to-big-data">Transitioning from DW to Big Data</a></td>
       <td><a href="https://www.linkedin.com/learning/certificates/d858f1f701dc3df12f7ba43bad64b184e79b397261c614d9d90d3740e81415e2">LinkedIn Learning</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/004%20Transitioning%20from%20Data%20Warehousing%20to%20Big%20Data.png">cert</a></td>   
   </tr>
@@ -98,8 +98,26 @@
   </tr>
   <tr>
       <td>011</td>
-      <td>202005XX</td>
+      <td>20200522</td>
       <td>09</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/data-cleaning-in-python">Data Cleaning in Python</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/f52a95ec88d6b2660fb1c9e882fa0d3edcf60116">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/011%20Data%20Cleaning%20in%20Python.png">cert</a></td>   
+  </tr>
+  <tr>
+      <td>012</td>
+      <td>202005XX</td>
+      <td>10</td>
+      <td>00:00</td>
+      <td><a href="">A</a></td>
+      <td><a href="">Datacamp</a></td>
+      <td><a href="">cert</a></td>   
+  </tr>
+  <tr>
+      <td>013</td>
+      <td>202005XX</td>
+      <td>11</td>
       <td>00:00</td>
       <td><a href="">A</a></td>
       <td><a href="">Datacamp</a></td>
