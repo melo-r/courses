@@ -134,8 +134,17 @@
   </tr>
   <tr>
       <td>015</td>
-      <td>202005XX</td>
+      <td>20200521</td>
       <td>13</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/big-data-fundamentals-with-pyspark">Big Data Fundamentals with PySpark</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/390ba3ba360b3bc52eeb4553303c54a6b96fcf1f">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/015%20Big%20Data%20Fundamentals%20with%20PySpark.png">cert</a></td>   
+  </tr>
+  <tr>
+      <td>016</td>
+      <td>202005XX</td>
+      <td>14</td>
       <td>00:00</td>
       <td><a href="">A</a></td>
       <td><a href="">Datacamp</a></td>
