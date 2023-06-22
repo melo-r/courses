@@ -2,7 +2,7 @@
 <html>
   I'm updating this area here you can access all the courses I've taken
   <br>
-  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/melo-r/details/certifications">my courses and certifications</a>
+  <a target="_blank" href="https://www.linkedin.com/in/melo-r/details/certifications">my courses and certifications</a>
   <br><br>
   <br>
   <b>2023</b><br>  
