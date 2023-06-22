@@ -170,12 +170,12 @@
   </tr>
   <tr>
       <td>019</td>
-      <td>202005XX</td>
+      <td>20200514</td>
       <td>17</td>
-      <td>00:00</td>
-      <td><a href="">A</a></td>
-      <td><a href="">LinkedIn Learning</a></td>
-      <td><a href="">cert</a></td>   
+      <td>01:27</td>
+      <td><a href="https://www.linkedin.com/learning/apache-spark-essential-training">Apache Spark Essential Training</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/c728d42742312a9aa404debf49878482ee9449917c40af7b1da6684a03978374">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/019%20Apache%20Spark%20Essential%20Training.png">cert</a></td>   
   </tr>
   <tr>
       <td>020</td>
