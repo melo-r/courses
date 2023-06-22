@@ -19,7 +19,7 @@
       <th>id</th>
       <th>date</th>
       <th>n</th>
-      <th>hour</th>
+      <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
       <th>cert</th>
@@ -89,17 +89,17 @@
   </tr>
   <tr>
       <td>010</td>
-      <td>202005XX</td>
+      <td>20200508</td>
       <td>08</td>
-      <td>00:00</td>
-      <td><a href="">A</a></td>
-      <td><a href="">Datacamp</a></td>
-      <td><a href="">cert</a></td>   
+      <td>02:53</td>
+      <td><a href="https://www.linkedin.com/learning/extending-hadoop-for-data-science-streaming-spark-storm-and-kafka">Extending Hadoop for Data Science: Streaming, Spark, Storm, and Kafka</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/cd25d65809943da487618ba1c215aa3ec0421bd5f3eb50ee9325f65003a46659">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/010%20Extending%20Hadoop%20for%20Data%20Science-Streaming%2C%20Spark%2C%20Storm%2C%20and%20Kafka.png">cert</a></td>   
   </tr>
   <tr>
-      <td>010</td>
+      <td>011</td>
       <td>202005XX</td>
-      <td>08</td>
+      <td>09</td>
       <td>00:00</td>
       <td><a href="">A</a></td>
       <td><a href="">Datacamp</a></td>
@@ -115,7 +115,7 @@
       <th>id</th>
       <th>date</th>
       <th>n</th>
-      <th>hour</th>
+      <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
       <th>cert</th>
@@ -137,7 +137,7 @@
       <th>id</th>
       <th>date</th>
       <th>n</th>
-      <th>hour</th>
+      <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
       <th>cert</th>
