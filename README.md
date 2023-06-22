@@ -51,6 +51,16 @@
       <td><a href="https://www.linkedin.com/learning/certificates/46070217dfd1ce21366e84e608aecc8078fb44602e8f6196f280396a86ec9193">LinkedIn Learning</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/005%20Learn%20Apache%20Kafka%20for%20Beginners.png">cert</a></td>   
   </tr>
+  </tr>
+    <tr>
+      <td>006</td>
+      <td>20200518</td>
+      <td>04</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/introduction-to-pyspark">Introduction to PySpark</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/fa6abdcbb2cacf93f9451c6cc74da19cdedb1bc1">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/006%20Introduction%20to%20PySpark.png">cert</a></td>   
+  </tr>
 
 </table>
 
