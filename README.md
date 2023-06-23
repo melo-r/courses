@@ -198,17 +198,15 @@
       <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
-      <th>cert</th>
-      <th width=100>type</th>
+      <th width=150>type</th>
   </tr>
   <tr>
       <td>002</td>
-      <td>20190319</td>
+      <td>20190313</td>
       <td>08:00</td>
       <td><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">Big Data Fundamentos 2.0</a></td>
       <td><a href="https://www.datascienceacademy.com.br">Data Science Academy</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/002%20Big%20Data%20Fundamentos%202.0.png">cert</a></td>
-      <td>Big Data</td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/002%20Big%20Data%20Fundamentos%202.0.png">Big Data</a></td>
   </tr>
 </table>
 
@@ -220,8 +218,7 @@
       <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
-      <th>cert</th>
-      <th width=100>type</th>
+      <th width=150>type</th>
   </tr>
   <tr>
       <td>001</td>
@@ -229,7 +226,6 @@
       <td>02:00</td>
       <td><a href="http://www.academy.fluig.com/certificates/5a7840327c31a4005cc9ef70">GoodData Essentials</a></td>
       <td><a href="https://www.gooddata.com">Gooddata</a></td>
-      <td></td>
       <td>BI</td>
   </tr>
 </table>
