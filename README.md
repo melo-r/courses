@@ -110,7 +110,7 @@
       <td>20200502</td>
       <td>10</td>
       <td>01:33</td>
-      <td><a href="https://cloud.contentraven.com/confluent/channeldetail/apache-kafka-fundamentals-and-accreditation">Confluent Fundamentals for Apache Kafka</a></td>
+      <td><a href="https://cloud.contentraven.com/confluent/channeldetail/apache-kafka-fundamentals-and-accreditation">Confluent Fundamentals Apache Kafka</a></td>
       <td><a href="https://www.confluent.io/">Confluent</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/012%20Confluent%20Fundamentals%20for%20Apache%20Kafka.png">cert</a></td>   
   </tr>
