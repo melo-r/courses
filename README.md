@@ -131,7 +131,7 @@
       <td>016</td>
       <td>20200520</td>
       <td>01:04</td>
-      <td><a href="https://www.linkedin.com/learning/architecting-big-data-applications-real-time-application-engineering">Architecting Big Data Applications: Real-Time</a></td>
+      <td><a href="https://www.linkedin.com/learning/architecting-big-data-applications-real-time-application-engineering">Architecting Big Data Applications: Real-Time Application Engineering</a></td>
       <td><a href="https://www.linkedin.com/learning/certificates/ba71fad73bb20015335d16f3ede234e36fca21fb4de76dc85aab862b11af6a34">LinkedIn Learning</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/016%20Architecting%20Big%20Data%20Applications%20Real-Time%20Application%20Engineering.png">Big Data</td>
   </tr>
