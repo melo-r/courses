@@ -209,6 +209,22 @@
   </tr>
   <tr>
       <td>026</td>
+      <td>20200808</td>
+      <td>02:28</td>
+      <td><a href="https://www.linkedin.com/learning/sql-server-machine-learning-services-python">SQL Server Machine Learning Services: Python</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/0516c9b11d72a8c567b1160a3098000f906082dd88e23b8e7eb7311153ff0ad5">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/026%20SQL%20Server%20Machine%20Learning%20Services-Python.png">Python</td>
+  </tr>  
+  <tr>
+      <td>027</td>
+      <td>20200823</td>
+      <td>00:47</td>
+      <td><a href="https://www.linkedin.com/learning/python-for-data-science-tips-tricks-techniques">Python for Data Science Tips, Tricks, & Techniques</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/f3d5150baccfebbb5c71c7508c4e1454d4dc02ef2da94be62e1227eab5c64955">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/027%20Python%20for%20Data%20Science%20Tips%2C%20Tricks%2C%20%26%20Techniques.png">Python</td>
+  </tr>  
+  <tr>
+      <td>028</td>
       <td>20200600</td>
       <td>01:37</td>
       <td><a href="">Apache</a></td>
