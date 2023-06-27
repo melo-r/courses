@@ -201,13 +201,20 @@
   </tr>
   <tr>
       <td>025</td>
+      <td>20200730</td>
+      <td>06:02</td>
+      <td><a href="https://www.linkedin.com/learning/python-for-data-science-essential-training-part-1">Python for Data Science Essential Training Part 1</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/0fbb83988cf67322cee5d5f60ac63fb1c8bdb4dc5d1f49ca3fc964cfb6802d02">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/025%20Python%20for%20Data%20Science%20Essential%20Training%20Part%201.png">Python</td>
+  </tr>
+  <tr>
+      <td>026</td>
       <td>20200600</td>
       <td>01:37</td>
       <td><a href="">Apache</a></td>
       <td><a href="">LinkedIn Learning</a></td>
       <td><a href="">Hadoop</td>
-  </tr>
-  
+  </tr>  
 
 </table>
 
