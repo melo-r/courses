@@ -265,19 +265,19 @@
   </tr>  
   <tr>
       <td>033</td>
-      <td>20200900</td>
+      <td>20200907</td>
       <td>04:00</td>
-      <td><a href="">Apache</a></td>
-      <td><a href="">Datacamp</a></td>
-      <td><a href="">Hadoop</td>
+      <td><a href="https://learn.datacamp.com/courses/data-manipulation-with-pandas">Data Manipulation with pandas</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/9694c45654a746326181d61d08f531d298f717d7">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/033%20Data%20Manipulation%20with%20pandas.png">Pandas</td>
   </tr>  
   <tr>
       <td>034</td>
-      <td>20200900</td>
-      <td>01:37</td>
-      <td><a href="">Apache</a></td>
-      <td><a href="">Datacamp</a></td>
-      <td><a href="">Hadoop</td>
+      <td>20200904</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/building-data-engineering-pipelines-in-python">Building Data Engineering Pipelines in Python</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/63437a854f45870aad316ee50cdf094c6e5d3a74">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/034%20Building%20Data%20Engineering%20Pipelines%20in%20Python.png">Python</td>
   </tr>  
   <tr>
       <td>035</td>
