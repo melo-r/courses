@@ -185,6 +185,22 @@
   </tr>
   <tr>
       <td>023</td>
+      <td>20200617</td>
+      <td>01:09</td>
+      <td><a href="https://www.linkedin.com/learning/gestao-agil-no-trabalho-como-planejar-com-historias-de-usuarios-ageis">Gestão Ágil no Trabalho: Como Planejar com Histórias de Usuários Ágeis</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/2b763cb73029d9855cc706f2354af6a41653f9f6ed9469202d2d367a620cdaf0">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/023%20Gest%C3%A3o%20%C3%81gil%20no%20Trabalho-Como%20Planejar%20com%20Hist%C3%B3rias%20de%20Usu%C3%A1rios%20%C3%81geis.png">Agile</td>
+  </tr>
+  <tr>
+      <td>024</td>
+      <td>20200614</td>
+      <td>02:52</td>
+      <td><a href="https://www.linkedin.com/learning/azure-spark-databricks-essential-training">Azure Spark Databricks Essential Training</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/1a1990855138696b8ab8de169dc6196fc752b8d3db4b19920aa386e91b6c4a72">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/024%20Azure%20Spark%20Databricks%20Essential%20Training.png">Spark</td>
+  </tr>
+  <tr>
+      <td>025</td>
       <td>20200600</td>
       <td>01:37</td>
       <td><a href="">Apache</a></td>
