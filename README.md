@@ -225,10 +225,66 @@
   </tr>  
   <tr>
       <td>028</td>
-      <td>20200600</td>
+      <td>20200907</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/pandas-joins-for-spreadsheet-users">Pandas Joins for Spreadsheet Users</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/2b4cd2c14bc10f7c17751fc880d5cfa1f07c5bba">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/028%20Pandas%20Joins%20for%20Spreadsheet%20Users.png">Pandas</td>
+  </tr>  
+  <tr>
+      <td>029</td>
+      <td>20200917</td>
+      <td>04:37</td>
+      <td><a href="https://www.linkedin.com/learning/python-essential-training-2018">Python Essential Training (2018)</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/cf905f1eec999d4b8dd8aabbf38a63d0d85dfe4620a2d138885274da71c7567e">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/029%20Python%20Essential%20Training%20(2018).png">Python</td>
+  </tr>  
+  <tr>
+      <td>030</td>
+      <td>20200909</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/web-scraping-with-python">Web Scraping in Python</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/bd36865d0c25e1b0437230ef8e877a64660a6498">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/030%20Web%20Scraping%20in%20Python.png">Python</td>
+  </tr>  
+  <tr>
+      <td>031</td>
+      <td>20200909</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/manipulating-time-series-data-in-python">Manipulating Time Series Data in Python</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/88ebbeb0be064ded06063b2be3c66a67e1cc0c6d">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/031%20Manipulating%20Time%20Series%20Data%20in%20Python.png">Python</td>
+  </tr>  
+  <tr>
+      <td>032</td>
+      <td>20200906</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/introduction-to-relational-databases-in-python">Introduction to Databases in Python</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/5931fb56a6f43a37fa46b65a0e7134f07f94c608">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/032%20Introduction%20to%20Databases%20in%20Python.png">Python</td>
+  </tr>  
+  <tr>
+      <td>033</td>
+      <td>20200900</td>
+      <td>04:00</td>
+      <td><a href="">Apache</a></td>
+      <td><a href="">Datacamp</a></td>
+      <td><a href="">Hadoop</td>
+  </tr>  
+  <tr>
+      <td>034</td>
+      <td>20200900</td>
       <td>01:37</td>
       <td><a href="">Apache</a></td>
-      <td><a href="">LinkedIn Learning</a></td>
+      <td><a href="">Datacamp</a></td>
+      <td><a href="">Hadoop</td>
+  </tr>  
+  <tr>
+      <td>035</td>
+      <td>20200900</td>
+      <td>01:37</td>
+      <td><a href="">Apache</a></td>
+      <td><a href="">Datacamp</a></td>
       <td><a href="">Hadoop</td>
   </tr>  
 
