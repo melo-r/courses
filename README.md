@@ -281,11 +281,19 @@
   </tr>  
   <tr>
       <td>035</td>
+      <td>20201030</td>
+      <td>02:27</td>
+      <td><a href="https://www.linkedin.com/learning/learning-python-2020">Learning Python (2020)</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/60ec12ab5590446adb45fc0a1750e8575466fc9668b66e0ef6e521d19eb622a0">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/035%20Learning%20Python%20(2020).png">Python</td>
+  </tr>  
+  <tr>
+      <td>036</td>
       <td>20200900</td>
       <td>01:37</td>
       <td><a href="">Apache</a></td>
       <td><a href="">Datacamp</a></td>
-      <td><a href="">Hadoop</td>
+      <td><a href="">Python</td>
   </tr>  
 
 </table>
