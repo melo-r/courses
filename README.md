@@ -415,6 +415,22 @@
   </tr>
   <tr>
       <td>007</td>
+      <td>20070101</td>
+      <td>60:00</td>
+      <td><a href="https://datasul.com.br/">Business Intelligence(SQL, MS .NET)</a></td>
+      <td><a href="https://datasul.com.br/">Datasul S/A</a></td>
+      <td>BI</td>
+  </tr> 
+  <tr>
+      <td>008</td>
+      <td>20070601</td>
+      <td>32:00</td>
+      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">MS SQL Server 2005 Cursos 2779 e 2880</a></td>
+      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">Bras e Figueiredo</a></td>
+      <td>MS SQL 2005</td>
+  </tr>
+  <tr>
+      <td>009</td>
       <td>20070701</td>
       <td>40:00</td>
       <td><a href="https://sebrae.com.br/sites/PortalSebrae">Business Intelligence, CRM, ERP</a></td>
