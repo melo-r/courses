@@ -400,10 +400,26 @@
   <tr>
       <td>005</td>
       <td>20070101</td>
-      <td>99:00</td>
+      <td>60:00</td>
       <td><a href="https://sebrae.com.br/sites/PortalSebrae">Sebrae, Endeavor, HSM, KLA</a></td>
       <td><a href="https://endeavor.org.br/">Treinamentos e Seminários</a></td>
       <td>Treinamentos</td>
+  </tr>
+  <tr>
+      <td>006</td>
+      <td>20070201</td>
+      <td>40:00</td>
+      <td><a href="https://datasul.com.br/">Visão Sistemica de Empresas, Gerenciamento de Projetos</a></td>
+      <td><a href="https://datasul.com.br/">Universidade Datasul</a></td>
+      <td>Treinamentos</td>
+  </tr>
+  <tr>
+      <td>007</td>
+      <td>20070701</td>
+      <td>40:00</td>
+      <td><a href="https://sebrae.com.br/sites/PortalSebrae">Business Intelligence, CRM, ERP</a></td>
+      <td><a href="https://endeavor.org.br/">Universidade Datasul</a></td>
+      <td>BI,CRM,ERP</td>
   </tr>
   
 </table>
