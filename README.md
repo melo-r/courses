@@ -355,6 +355,8 @@
   </tr>
 </table>
 
+<br><br><br><br><br><br><br><br><br><br>
+
 <table border="1">
   <caption><b>2011</b></caption>
   <tr>
@@ -399,22 +401,37 @@
   </tr>
   <tr>
       <td>017</td>
-      <td>20070101</td>
-      <td>60:00</td>
-      <td><a href="https://sebrae.com.br/sites/PortalSebrae">Sebrae, Endeavor, HSM, KLA</a></td>
-      <td><a href="https://endeavor.org.br/">Treinamentos e Seminários</a></td>
-      <td>Treinamentos</td>
+      <td>20110201</td>
+      <td>30:00</td>
+      <td><a href="https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/balanced-scorecard-4?oferta=102943">BSC Balanced Scorecard</a></td>
+      <td><a href="https://educacao-executiva.fgv.br/sp/sao-paulo">FGV</a></td>
+      <td>BSC</td>
   </tr>
   <tr>
       <td>018</td>
+      <td>20070401</td>
+      <td>32:00</td>
+      <td>Business Process Modelling ARIS Methodolgy</td>
+      <td><a href="https://www.softwareag.com/en_corporate.html">Software AG</a></td>
+      <td>BPM</td>
+  </tr> 
+  <tr>
+      <td>019</td>
+      <td>20070701</td>
+      <td>30:00</td>
+      <td>BPMN Business Process Modeling Notation (Treinamentos QB-111 e QB-131)</td>
+      <td><a href="https://www.ibm.com/products/rational-software-architect-designer">IBM Rational System</a></td>
+      <td>BPM</td>
+  </tr> 
+  <tr>
+      <td>020</td>
       <td>20070101</td>
-      <td>60:00</td>
-      <td><a href="https://datasul.com.br/">Business Intelligence (SQL, MS .NET)</a></td>
-      <td><a href="https://datasul.com.br/">Datasul S/A</a></td>
-      <td>BI</td>
+      <td>40:00</td>
+      <td>Report & Analysis Studio, Framework Manager</td>
+      <td><a href="https://www.ibm.com/br-pt/products/cognos-analytics">IBM Cognos Academic Initiative</a></td>
+      <td>Cognos</td>
   </tr> 
 </table>
-
 
 <table border="1">
   <caption><b>2004-2010</b></caption>
