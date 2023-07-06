@@ -391,11 +391,11 @@
   </tr>
   <tr>
       <td>016</td>
-      <td>20061201</td>
+      <td>20110115</td>
       <td>32:00</td>
-      <td><a href="http://www.nextg.com.br/">Business Intelligence, CRM, ERP</a></td>
+      <td>BPM Business Process Management</td>
       <td><a href="http://www.nextg.com.br/">INTEL Next Generation Center</a></td>
-      <td>BI,CRM,ERP</td>
+      <td>BPM</td>
   </tr>
   <tr>
       <td>017</td>
@@ -438,7 +438,7 @@
       <td>002</td>
       <td>20051010</td>
       <td>01:00</td>
-      <td><a href="https://www.unasp.br/">Palestrante Convidado V Semana Administração</a></td>
+      <td>Palestrante Convidado V Semana Administração</td>
       <td><a href="https://www.unasp.br/">UNASP</a></td>
       <td>Palestra</td>
   </tr>
@@ -454,7 +454,7 @@
       <td>004</td>
       <td>20061201</td>
       <td>32:00</td>
-      <td><a href="http://www.nextg.com.br/">Business Intelligence, CRM, ERP</a></td>
+      <td>Business Intelligence, CRM, ERP</td>
       <td><a href="http://www.nextg.com.br/">INTEL Next Generation Center</a></td>
       <td>BI,CRM,ERP</td>
   </tr>
@@ -470,7 +470,7 @@
       <td>006</td>
       <td>20070101</td>
       <td>60:00</td>
-      <td><a href="https://datasul.com.br/">Business Intelligence (SQL, MS .NET)</a></td>
+      <td>Business Intelligence (SQL, MS .NET)</td>
       <td><a href="https://datasul.com.br/">Datasul S/A</a></td>
       <td>BI</td>
   </tr> 
@@ -478,7 +478,7 @@
       <td>007</td>
       <td>20070201</td>
       <td>40:00</td>
-      <td><a href="https://datasul.com.br/">Visão Sistemica e Gerenciamento de Projetos</a></td>
+      <td>Visão Sistemica e Gerenciamento de Projetos</td>
       <td><a href="https://datasul.com.br/">Universidade Datasul</a></td>
       <td>Treinamentos</td>
   </tr>
@@ -494,7 +494,7 @@
       <td>009</td>
       <td>20070701</td>
       <td>40:00</td>
-      <td><a href="https://datasul.com.br/">Business Intelligence, CRM, ERP</a></td>
+      <td>Business Intelligence, CRM, ERP</td>
       <td><a href="https://datasul.com.br/">Universidade Datasul</a></td>
       <td>BI,CRM,ERP</td>
   </tr>
@@ -502,7 +502,7 @@
       <td>010</td>
       <td>20080303</td>
       <td>80:00</td>
-      <td><a href="https://datasul.com.br/">Workshop Capacitação Vendas Datasul BI</a></td>
+      <td>Workshop Capacitação Vendas Datasul BI</td>
       <td><a href="https://datasul.com.br/">Datasul Santiago-Chile</a></td>
       <td>BI</td>
   </tr>
@@ -510,7 +510,7 @@
       <td>011</td>
       <td>20100101</td>
       <td>64:00</td>
-      <td><a href="https://www.totvs.com/">BI,ECM,ERP</a></td>
+      <td>BI,ECM,ERP</td>
       <td><a href="https://www.totvs.com/">Universidade TOTVS</a></td>
       <td>BI,ECM,ERP</td>
   </tr>
@@ -518,7 +518,7 @@
       <td>012</td>
       <td>20100701</td>
       <td>32:00</td>
-      <td><a href="https://www.totvs.com/">Framework</a></td>
+      <td>Framework</td>
       <td><a href="https://www.totvs.com/">Universidade TOTVS</a></td>
       <td>Framework</td>
   </tr>
