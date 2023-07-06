@@ -381,6 +381,30 @@
       <td><a href="https://www.unasp.br/">UNASP</a></td>
       <td>Palestra</td>
   </tr>
+  <tr>
+      <td>003</td>
+      <td>20060327</td>
+      <td>16:00</td>
+      <td><a href="https://www.dalecarnegie.com/pt-br/courses/195?franchise_id=58">Alta Performance em Vendas</a></td>
+      <td><a href="https://www.dalecarnegie.com">Dale Carnegie Training</a></td>
+      <td>Vendas</td>
+  </tr>
+  <tr>
+      <td>004</td>
+      <td>20061201</td>
+      <td>32:00</td>
+      <td><a href="http://www.nextg.com.br/">Business Intelligence, CRM, ERP</a></td>
+      <td><a href="http://www.nextg.com.br/">INTEL Next Generation Center</a></td>
+      <td>BI,CRM,ERP</td>
+  </tr>
+  <tr>
+      <td>005</td>
+      <td>20070101</td>
+      <td>99:00</td>
+      <td><a href="https://sebrae.com.br/sites/PortalSebrae">Sebrae, Endeavor, HSM, KLA</a></td>
+      <td><a href="https://endeavor.org.br/">Treinamentos e Seminários</a></td>
+      <td>Treinamentos</td>
+  </tr>
   
 </table>
 
