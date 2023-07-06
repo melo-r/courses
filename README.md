@@ -355,5 +355,34 @@
   </tr>
 </table>
 
+<table border="1">
+  <caption><b>2004-2010</b></caption>
+  <tr>
+      <th>id</th>
+      <th>date</th>
+      <th>leng</th>
+      <th width=400>course</th>
+      <th width=250>institution</th>
+      <th width=150>type</th>
+  </tr>
+  <tr>
+      <td>001</td>
+      <td>20040821</td>
+      <td>34:00</td>
+      <td><a href="https://inexh.com.br/curso/dl/">DL Desenvolvimento e Liderança</a></td>
+      <td><a href="https://inexh.com.br">INEXH Atibaia</a></td>
+      <td>Desenv Pessoal</td>
+  </tr>
+  <tr>
+      <td>002</td>
+      <td>20051010</td>
+      <td>01:00</td>
+      <td><a href="https://www.unasp.br/">Palestrante Convidado da V Semana de Administração</a></td>
+      <td><a href="https://www.unasp.br/">UNASP</a></td>
+      <td>Palestra</td>
+  </tr>
+  
+</table>
+
 
 </html>
