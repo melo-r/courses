@@ -367,27 +367,27 @@
   </tr>
   <tr>
       <td>013</td>
-      <td>20040821</td>
-      <td>34:00</td>
-      <td><a href="https://inexh.com.br/curso/dl/">DL Desenvolvimento e Liderança</a></td>
-      <td><a href="https://inexh.com.br">INEXH Atibaia</a></td>
-      <td>Desenv Pessoal</td>
+      <td>20110101</td>
+      <td>16:00</td>
+      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">2778 Writing Queries using SQL 2008 Transact-SQL</a></td>
+      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">Bras e Figueiredo</a></td>
+      <td>MS SQL 2008</td>
   </tr>
   <tr>
       <td>014</td>
-      <td>20051010</td>
-      <td>01:00</td>
-      <td><a href="https://www.unasp.br/">Palestrante Convidado V Semana Administração</a></td>
-      <td><a href="https://www.unasp.br/">UNASP</a></td>
-      <td>Palestra</td>
+      <td>20110101</td>
+      <td>16:00</td>
+      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">6231 Manutenção</a></td>
+      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">Bras e Figueiredo</a></td>
+      <td>MS SQL 2008</td>
   </tr>
   <tr>
       <td>015</td>
-      <td>20060327</td>
+      <td>20110101</td>
       <td>16:00</td>
-      <td><a href="https://www.dalecarnegie.com/pt-br/courses/195?franchise_id=58">Alta Performance em Vendas</a></td>
-      <td><a href="https://www.dalecarnegie.com">Dale Carnegie Training</a></td>
-      <td>Vendas</td>
+      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">6232 Implementação de Banco de Dados</a></td>
+      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">Bras e Figueiredo</a></td>
+      <td>MS SQL 2008</td>
   </tr>
   <tr>
       <td>016</td>
