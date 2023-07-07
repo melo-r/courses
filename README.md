@@ -370,7 +370,7 @@
       <td>027</td>
       <td>20130601</td>
       <td>48:00</td>
-      <td>Softtek Process-Six Sigma,CMMI,Decision Matrix, Risks Mgmt</td>
+      <td>Softtek Process-Six Sigma, CMMI, Decision Matrix</td>
       <td><a href="https://www.softtek.com/pt/">Softtek</a></td>
       <td>Process</td>
   </tr>
@@ -394,7 +394,7 @@
       <td>030</td>
       <td>20130515</td>
       <td>40:00</td>
-      <td><a href="https://open.sap.com/course/hana1">Introduction to Software Development on SAP HANA</a></td>
+      <td><a href="https://open.sap.com/course/hana1">Software Development on SAP HANA</a></td>
       <td><a href="https://open.sap.com/courses">Open SAP</a></td>
       <td>HANA</td>
   </tr>
