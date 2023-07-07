@@ -357,6 +357,74 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 <table border="1">
+  <caption><b>2013</b></caption>
+  <tr>
+      <th>id</th>
+      <th>date</th>
+      <th>leng</th>
+      <th width=400>course</th>
+      <th width=250>institution</th>
+      <th width=150>type</th>
+  </tr>
+  <tr>
+      <td>027</td>
+      <td>20130601</td>
+      <td>48:00</td>
+      <td>Softtek Process-Six Sigma,CMMI,Decision Matrix, Risks Mgmt</td>
+      <td><a href="https://www.softtek.com/pt/">Softtek</a></td>
+      <td>Process</td>
+  </tr>
+  <tr>
+      <td>028</td>
+      <td>20130616</td>
+      <td>40:00</td>
+      <td>SAP BO Building reports with the SAP Business</td>
+      <td><a href="https://www.softtek.com/pt/">Softtek</a></td>
+      <td>BI</td>
+  </tr>
+  <tr>
+      <td>029</td>
+      <td>20130404</td>
+      <td>03:00</td>
+      <td><a href="https://open.sap.com/course/hana-warmup">In-Memory Data Management In a Nutshell</a></td>
+      <td><a href="https://open.sap.com/courses">Open SAP</a></td>
+      <td>HANA</td>
+  </tr>
+  <tr>
+      <td>030</td>
+      <td>20130515</td>
+      <td>40:00</td>
+      <td><a href="https://open.sap.com/course/hana1">Introduction to Software Development on SAP HANA</a></td>
+      <td><a href="https://open.sap.com/courses">Open SAP</a></td>
+      <td>HANA</td>
+  </tr>
+  <tr>
+      <td>031</td>
+      <td>20130808</td>
+      <td>32:00</td>
+      <td><a href="https://www.coursera.org/course/bigdata">Web Intelligence and Big Data</a></td>
+      <td><a href="https://www.coursera.org/course/bigdata">Indian Institute of Technology</a></td>
+      <td>Big Data</td>
+  </tr>
+  <tr>
+      <td>032</td>
+      <td>20130820</td>
+      <td>40:00</td>
+      <td><a href="https://open.hpi.de/course/imdb2013">In-Memory Data Management 2013</a></td>
+      <td><a href="https://open.hpi.de/">HPI Hasso Plattner</a></td>
+      <td>Big Data</td>
+  </tr> 
+  <tr>
+      <td>033</td>
+      <td>20130909</td>
+      <td>40:00</td>
+      <td><a href="https://open.sap.com/course/mobile1">Introduction to Mobile Solution Development</a></td>
+      <td><a href="https://open.sap.com/courses">Open SAP</a></td>
+      <td>Mobile</td>
+  </tr> 
+</table>
+
+<table border="1">
   <caption><b>2012</b></caption>
   <tr>
       <th>id</th>
@@ -415,8 +483,6 @@
       <td>Data Stage</td>
   </tr> 
 </table>
-
-
 
 <table border="1">
   <caption><b>2011</b></caption>
