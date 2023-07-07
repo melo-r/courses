@@ -356,6 +356,67 @@
 </table>
 
 <br><br><br><br><br><br><br><br><br><br>
+<table border="1">
+  <caption><b>2012</b></caption>
+  <tr>
+      <th>id</th>
+      <th>date</th>
+      <th>leng</th>
+      <th width=400>course</th>
+      <th width=250>institution</th>
+      <th width=150>type</th>
+  </tr>
+  <tr>
+      <td>021</td>
+      <td>20120601</td>
+      <td>40:00</td>
+      <td>Report Studio & Analysis Studio versões 8.4 e 10.1</td>
+      <td><a href="https://www.ibm.com/br-pt/products/cognos-analytics">IBM</a></td>
+      <td>BI Cognos</td>
+  </tr>
+  <tr>
+      <td>022</td>
+      <td>20120711</td>
+      <td>16:00</td>
+      <td>ITIL V3 Foundation Certification Program</td>
+      <td>IBM</td>
+      <td>ITIL</td>
+  </tr>
+  <tr>
+      <td>023</td>
+      <td>20120808</td>
+      <td>16:00</td>
+      <td>DB2 v9 Essential Training I e II</td>
+      <td><a href="http://bigdatauniversity.com/courses">Big Data University</a></td>
+      <td>DB2</td>
+  </tr>
+  <tr>
+      <td>024</td>
+      <td>20120915</td>
+      <td>32:00</td>
+      <td>DB2 v9 Fundamentals Certification 730</td>
+      <td><a href="https://www.ibm.com/br-pt/products/db2">IBM</a></td>
+      <td>DB2</td>
+  </tr>
+  <tr>
+      <td>025</td>
+      <td>20121001</td>
+      <td>32:00</td>
+      <td>Oracle 11g Curso Certificação OCA</td>
+      <td><a href="https://www.oracle.com">Oracle</a></td>
+      <td>Oracle</td>
+  </tr>
+  <tr>
+      <td>026</td>
+      <td>20121010</td>
+      <td>40:00</td>
+      <td>IBM Data Stage-Treinamento ETL</td>
+      <td><a href="https://www.ibm.com/br-pt/products/datastage">IBM</a></td>
+      <td>Data Stage</td>
+  </tr> 
+</table>
+
+
 
 <table border="1">
   <caption><b>2011</b></caption>
@@ -429,7 +490,7 @@
       <td>40:00</td>
       <td>Report & Analysis Studio, Framework Manager</td>
       <td><a href="https://www.ibm.com/br-pt/products/cognos-analytics">IBM Cognos Academic Initiative</a></td>
-      <td>Cognos</td>
+      <td>BI Cognos</td>
   </tr> 
 </table>
 
