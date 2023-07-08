@@ -357,6 +357,115 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 <table border="1">
+  <caption><b>2017</b></caption>
+  <tr>
+      <th>id</th>
+      <th>date</th>
+      <th>leng</th>
+      <th width=400>course</th>
+      <th width=250>institution</th>
+      <th width=150>type</th>
+  </tr>
+  <tr>
+      <td>041</td>
+      <td>20170721</td>
+      <td>42:00</td>
+      <td><a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Introdução à Ciência da Computação com Python Parte 1</a></td>
+      <td><a href="https://www.coursera.org/search?query=universidade%20de%20s%C3%A3o%20paulo">USP Universidade São Paulo</a></td>
+      <td>Python</td>
+  </tr>
+  <tr>
+      <td>042</td>
+      <td>20170810</td>
+      <td>10:00</td>
+      <td><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/gestao/emasp/cursos/index.php?p=239248">Ciencia de Dados em Governo Aberto</a></td>
+      <td>EMASP Mobi Lab</td>
+      <td>Workshop</td>
+  </tr>
+  <tr>
+      <td>043</td>
+      <td>20171001</td>
+      <td>08:00</td>
+      <td><a href="https://www.coursera.org/learn/introduction-mongodb/home/info">Introduction to MongoDB Analytics</a></td>
+      <td><a href="https://www.coursera.org">Coursera</a></td>
+      <td>MongoDB</td>
+  </tr>
+  <tr>
+      <td>044</td>
+      <td>20171007</td>
+      <td>11:00</td>
+      <td><a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6">Curso de Python 3 - Mundo 1: Fundamentos</a></td>
+      <td>Curso em video</td>
+      <td>Python</td>
+  </tr>
+  <tr>
+      <td>045</td>
+      <td>20070101</td>
+      <td>60:00</td>
+      <td><a href="https://sebrae.com.br/sites/PortalSebrae">Sebrae, Endeavor, HSM, KLA</a></td>
+      <td><a href="https://endeavor.org.br/">Treinamentos e Seminários</a></td>
+      <td>Treinamentos</td>
+  </tr>
+  <tr>
+      <td>046</td>
+      <td>20070101</td>
+      <td>60:00</td>
+      <td>Business Intelligence (SQL, MS .NET)</td>
+      <td><a href="https://datasul.com.br/">Datasul S/A</a></td>
+      <td>BI</td>
+  </tr> 
+  <tr>
+      <td>047</td>
+      <td>20070201</td>
+      <td>40:00</td>
+      <td>Visão Sistemica e Gerenciamento de Projetos</td>
+      <td><a href="https://datasul.com.br/">Universidade Datasul</a></td>
+      <td>Treinamentos</td>
+  </tr>
+  <tr>
+      <td>048</td>
+      <td>20070601</td>
+      <td>32:00</td>
+      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">MS SQL Server 2005 Cursos 2779 e 2880</a></td>
+      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">Bras e Figueiredo</a></td>
+      <td>MS SQL 2005</td>
+  </tr>
+  <tr>
+      <td>049</td>
+      <td>20070701</td>
+      <td>40:00</td>
+      <td>Business Intelligence, CRM, ERP</td>
+      <td><a href="https://datasul.com.br/">Universidade Datasul</a></td>
+      <td>BI,CRM,ERP</td>
+  </tr>
+  <tr>
+      <td>050</td>
+      <td>20080303</td>
+      <td>80:00</td>
+      <td>Workshop Capacitação Vendas Datasul BI</td>
+      <td><a href="https://datasul.com.br/">Datasul Santiago-Chile</a></td>
+      <td>BI</td>
+  </tr>
+  <tr>
+      <td>051</td>
+      <td>20100101</td>
+      <td>64:00</td>
+      <td>BI,ECM,ERP</td>
+      <td><a href="https://www.totvs.com/">Universidade TOTVS</a></td>
+      <td>BI,ECM,ERP</td>
+  </tr>
+  <tr>
+      <td>052</td>
+      <td>20100701</td>
+      <td>32:00</td>
+      <td>Framework</td>
+      <td><a href="https://www.totvs.com/">Universidade TOTVS</a></td>
+      <td>Framework</td>
+  </tr>
+</table>
+
+
+<table border="1">
   <caption><b>2015</b></caption>
   <tr>
       <th>id</th>
