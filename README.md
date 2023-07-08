@@ -356,6 +356,59 @@
 </table>
 
 <br><br><br><br><br><br><br><br><br><br>
+
+<table border="1">
+  <caption><b>2014</b></caption>
+  <tr>
+      <th>id</th>
+      <th>date</th>
+      <th>leng</th>
+      <th width=400>course</th>
+      <th width=250>institution</th>
+      <th width=150>type</th>
+  </tr>
+  <tr>
+      <td>033</td>
+      <td>20141001</td>
+      <td>32:00</td>
+      <td>Data Analysis</td>
+      <td><a href="https://www.coursera.org/specializations/jhu-data-science">Johns Hopkins University</a></td>
+      <td>Data Analysis</td>
+  </tr>
+  <tr>
+      <td>034</td>
+      <td>20141016</td>
+      <td>32:00</td>
+      <td>Big Data in Education</td>
+      <td><a href="https://www.coursera.org/course/bigdata-edu">Columbia University</a></td>
+      <td>Big Data</td>
+  </tr>
+  <tr>
+      <td>035</td>
+      <td>20141022</td>
+      <td>32:00</td>
+      <td><a href="https://open.sap.com/course/hanacloud1">Introduction SAP HANA Cloud Platform</a></td>
+      <td><a href="https://open.sap.com/courses">Open SAP</a></td>
+      <td>HANA</td>
+  </tr>
+  <tr>
+      <td>036</td>
+      <td>20141111</td>
+      <td>40:00</td>
+      <td><a href="https://open.sap.com/course/bifour1">BI 4 Platform Innovation/Implementation</a></td>
+      <td><a href="https://open.sap.com/courses">Open SAP</a></td>
+      <td>BI</td>
+  </tr>
+  <tr>
+      <td>037</td>
+      <td>20141120</td>
+      <td>40:00</td>
+      <td><a href="https://www.coursera.org/learn/intro-to-big-data">Introduction to Data Science</a></td>
+      <td><a href="https://www.coursera.org/">University of Washington</a></td>
+      <td>Data Science</td>
+  </tr> 
+</table>
+
 <table border="1">
   <caption><b>2013</b></caption>
   <tr>
@@ -400,14 +453,6 @@
   </tr>
   <tr>
       <td>031</td>
-      <td>20130808</td>
-      <td>32:00</td>
-      <td><a href="https://www.coursera.org/course/bigdata">Web Intelligence and Big Data</a></td>
-      <td><a href="https://www.coursera.org/course/bigdata">Indian Institute of Technology</a></td>
-      <td>Big Data</td>
-  </tr>
-  <tr>
-      <td>032</td>
       <td>20130820</td>
       <td>40:00</td>
       <td><a href="https://open.hpi.de/course/imdb2013">In-Memory Data Management 2013</a></td>
@@ -415,7 +460,7 @@
       <td>Big Data</td>
   </tr> 
   <tr>
-      <td>033</td>
+      <td>032</td>
       <td>20130909</td>
       <td>40:00</td>
       <td><a href="https://open.sap.com/course/mobile1">Introduction to Mobile Solution Development</a></td>
