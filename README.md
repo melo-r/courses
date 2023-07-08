@@ -369,7 +369,7 @@
   <tr>
       <td>038</td>
       <td>20151101</td>
-      <td>32:00</td>
+      <td>10:00</td>
       <td><a href="http://www.veduca.com.br/assistir/probabilidade-e-estatistica">Probabilidade e Estatistica</a></td>
       <td><a href="http://www.veduca.com.br">USP Universidade São Paulo</a></td>
       <td>Estatistica</td>
