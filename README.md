@@ -311,7 +311,6 @@
       <td><a href="https://www.datascienceacademy.com.br/">Data Science Academy</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/038%20Python%20Fundamentos%20para%20An%C3%A1lise%20de%20Dados.png">Python</td>
   </tr>  
-
 </table>
 
 
@@ -356,6 +355,42 @@
 </table>
 
 <br><br><br><br><br><br><br><br><br><br>
+
+<table border="1">
+  <caption><b>2015</b></caption>
+  <tr>
+      <th>id</th>
+      <th>date</th>
+      <th>leng</th>
+      <th width=400>course</th>
+      <th width=250>institution</th>
+      <th width=150>type</th>
+  </tr>
+  <tr>
+      <td>038</td>
+      <td>20151101</td>
+      <td>32:00</td>
+      <td><a href="http://www.veduca.com.br/assistir/probabilidade-e-estatistica">Probabilidade e Estatistica</a></td>
+      <td><a href="http://www.veduca.com.br">USP Universidade São Paulo</a></td>
+      <td>Estatistica</td>
+  </tr>
+  <tr>
+      <td>039</td>
+      <td>20151216</td>
+      <td>32:00</td>
+      <td>Teoria dos Jogos e Estrategia</td>
+      <td><a href="http://www.veduca.com.br/assistir/teoria-dos-jogos-e-estrategia">Yale University</a></td>
+      <td>Estrategia</td>
+  </tr>
+  <tr>
+      <td>040</td>
+      <td>20151222</td>
+      <td>32:00</td>
+      <td><a href="https://www.coursera.org/specializations/big-data">Introduction to Big Data</a></td>
+      <td><a href="https://www.coursera.org/search?query=university%20of%20california%20san%20diego&">University of California</a></td>
+      <td>Big Data</td>
+  </tr>
+</table>
 
 <table border="1">
   <caption><b>2014</b></caption>
