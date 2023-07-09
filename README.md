@@ -370,7 +370,7 @@
       <td>041</td>
       <td>20170721</td>
       <td>42:00</td>
-      <td><a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Introdução à Ciência da Computação com Python Parte 1</a></td>
+      <td><a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Introdução Ciência da Computação com Python P1</a></td>
       <td><a href="https://www.coursera.org/search?query=universidade%20de%20s%C3%A3o%20paulo">USP Universidade São Paulo</a></td>
       <td>Python</td>
   </tr>
@@ -400,70 +400,69 @@
   </tr>
   <tr>
       <td>045</td>
-      <td>20070101</td>
-      <td>60:00</td>
-      <td><a href="https://sebrae.com.br/sites/PortalSebrae">Sebrae, Endeavor, HSM, KLA</a></td>
-      <td><a href="https://endeavor.org.br/">Treinamentos e Seminários</a></td>
-      <td>Treinamentos</td>
+      <td>20171011</td>
+      <td>02:37</td>
+      <td><a href="https://learn.microsoft.com/en-us/training/paths/get-started-power-bi/">Introduction to Power BI</a></td>
+      <td><a href="https://powerbi.microsoft.com/pt-br/learning/">Microsoft Learning</a></td>
+      <td>Power BI</td>
   </tr>
   <tr>
       <td>046</td>
-      <td>20070101</td>
-      <td>60:00</td>
-      <td>Business Intelligence (SQL, MS .NET)</td>
-      <td><a href="https://datasul.com.br/">Datasul S/A</a></td>
-      <td>BI</td>
+      <td>20171017</td>
+      <td>40:00</td>
+      <td><a href="https://www.edx.org/course/analyzing-visualizing-data-power-bi-microsoft-dat207x-7">Analyzing and Visualizing Data with Power BI</a></td>
+      <td><a href="https://www.edx.org/course/data-analysis-in-power-bi?index=product&queryID=52f36a226436ff30e908ccb07e92d560">EDX</a></td>
+      <td>Power BI</td>
   </tr> 
   <tr>
       <td>047</td>
-      <td>20070201</td>
-      <td>40:00</td>
-      <td>Visão Sistemica e Gerenciamento de Projetos</td>
-      <td><a href="https://datasul.com.br/">Universidade Datasul</a></td>
-      <td>Treinamentos</td>
+      <td>20171101</td>
+      <td>12:00</td>
+      <td><a href="https://learn.mongodb.com/learning-paths/introduction-to-mongodb">M001 MongoDB Basics</a></td>
+      <td><a href="https://learn.mongodb.com/catalog">MongoDB University</a></td>
+      <td>MongoDB</td>
   </tr>
   <tr>
       <td>048</td>
-      <td>20070601</td>
-      <td>32:00</td>
-      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">MS SQL Server 2005 Cursos 2779 e 2880</a></td>
-      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">Bras e Figueiredo</a></td>
-      <td>MS SQL 2005</td>
+      <td>20171111</td>
+      <td>16:00</td>
+      <td><a href="https://cloudplatformonline.com/Summit-SaoPaulo-2017-About-wl.html">GCP Google Cloud Plataform Summit</a></td>
+      <td><a href="https://cloud.google.com/learn/certification?hl=pt-br">Google</a></td>
+      <td>GCP</td>
   </tr>
   <tr>
       <td>049</td>
-      <td>20070701</td>
-      <td>40:00</td>
-      <td>Business Intelligence, CRM, ERP</td>
-      <td><a href="https://datasul.com.br/">Universidade Datasul</a></td>
-      <td>BI,CRM,ERP</td>
+      <td>20171107</td>
+      <td>54:00</td>
+      <td><a href="https://www.datascienceacademy.com.br/pages/curso-microsoft-power-bi-para-data-science">Microsoft Power BI para Data Science</a></td>
+      <td><a href="https://www.datascienceacademy.com.br">Data Science Academy</a></td>
+      <td>Power BI</td>
   </tr>
   <tr>
       <td>050</td>
-      <td>20080303</td>
-      <td>80:00</td>
-      <td>Workshop Capacitação Vendas Datasul BI</td>
-      <td><a href="https://datasul.com.br/">Datasul Santiago-Chile</a></td>
-      <td>BI</td>
+      <td>20171122</td>
+      <td>30:00</td>
+      <td><a href="https://www.ibm.com/blogs/ibm-comunica/ibm-bluehack-conta-com-desafio-da-onu-para-combater-o-trafico-de-pessoas/">IBM Blue Hack Desafio Hackathon</a></td>
+      <td><a href="https://www.ibm.com/br-pt">IBM</a></td>
+      <td>Hackathon</td>
   </tr>
   <tr>
       <td>051</td>
-      <td>20100101</td>
-      <td>64:00</td>
-      <td>BI,ECM,ERP</td>
-      <td><a href="https://www.totvs.com/">Universidade TOTVS</a></td>
-      <td>BI,ECM,ERP</td>
+      <td>20171201</td>
+      <td>32:00</td>
+      <td><a href="https://www.udacity.com/course/data-wrangling-with-mongodb--ud032">Tratamento de Dados com MongoDB</a></td>
+      <td><a href="https://www.udacity.com">Udacity</a></td>
+      <td>MongoDB</td>
   </tr>
   <tr>
       <td>052</td>
-      <td>20100701</td>
-      <td>32:00</td>
-      <td>Framework</td>
-      <td><a href="https://www.totvs.com/">Universidade TOTVS</a></td>
-      <td>Framework</td>
+      <td>20171212</td>
+      <td>30:00</td>
+      <td><a href="https://www.microsofttech.com.br/participe-do-open-source-bootcamp-hack-bot-edition/">Microsoft Open Source Bootcamp Hack-a-bot</a></td>
+      <td><a href="https://www.microsoft.com/pt-br/">Microsoft</a></td>
+      <td>Hackathon</td>
   </tr>
 </table>
-
 
 <table border="1">
   <caption><b>2015</b></caption>
