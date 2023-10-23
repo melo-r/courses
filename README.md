@@ -475,12 +475,12 @@
       <th width=150>type</th>
   </tr>
   <tr>
-      <td>038</td>
-      <td>20151101</td>
-      <td>10:00</td>
-      <td><a href="http://www.veduca.com.br/assistir/probabilidade-e-estatistica">Probabilidade e Estatistica</a></td>
-      <td><a href="http://www.veduca.com.br">USP Universidade São Paulo</a></td>
-      <td>Estatistica</td>
+      <td>040</td>
+      <td>20151222</td>
+      <td>32:00</td>
+      <td><a href="https://www.coursera.org/specializations/big-data">Introduction to Big Data</a></td>
+      <td><a href="https://www.coursera.org/search?query=university%20of%20california%20san%20diego&">University of California</a></td>
+      <td>Big Data</td>
   </tr>
   <tr>
       <td>039</td>
@@ -491,12 +491,12 @@
       <td>Estrategia</td>
   </tr>
   <tr>
-      <td>040</td>
-      <td>20151222</td>
-      <td>32:00</td>
-      <td><a href="https://www.coursera.org/specializations/big-data">Introduction to Big Data</a></td>
-      <td><a href="https://www.coursera.org/search?query=university%20of%20california%20san%20diego&">University of California</a></td>
-      <td>Big Data</td>
+      <td>038</td>
+      <td>20151101</td>
+      <td>10:00</td>
+      <td><a href="http://www.veduca.com.br/assistir/probabilidade-e-estatistica">Probabilidade e Estatistica</a></td>
+      <td><a href="http://www.veduca.com.br">USP Universidade São Paulo</a></td>
+      <td>Estatistica</td>
   </tr>
 </table>
 
@@ -511,20 +511,20 @@
       <th width=150>type</th>
   </tr>
   <tr>
-      <td>033</td>
-      <td>20141001</td>
-      <td>32:00</td>
-      <td>Data Analysis</td>
-      <td><a href="https://www.coursera.org/specializations/jhu-data-science">Johns Hopkins University</a></td>
-      <td>Data Analysis</td>
-  </tr>
+      <td>037</td>
+      <td>20141120</td>
+      <td>40:00</td>
+      <td><a href="https://www.coursera.org/learn/intro-to-big-data">Introduction to Data Science</a></td>
+      <td><a href="https://www.coursera.org/">University of Washington</a></td>
+      <td>Data Science</td>
+  </tr> 
   <tr>
-      <td>034</td>
-      <td>20141016</td>
-      <td>32:00</td>
-      <td>Big Data in Education</td>
-      <td><a href="https://www.coursera.org/course/bigdata-edu">Columbia University</a></td>
-      <td>Big Data</td>
+      <td>036</td>
+      <td>20141111</td>
+      <td>40:00</td>
+      <td><a href="https://open.sap.com/course/bifour1">BI 4 Platform Innovation/Implementation</a></td>
+      <td><a href="https://open.sap.com/courses">Open SAP</a></td>
+      <td>BI</td>
   </tr>
   <tr>
       <td>035</td>
@@ -535,21 +535,21 @@
       <td>HANA</td>
   </tr>
   <tr>
-      <td>036</td>
-      <td>20141111</td>
-      <td>40:00</td>
-      <td><a href="https://open.sap.com/course/bifour1">BI 4 Platform Innovation/Implementation</a></td>
-      <td><a href="https://open.sap.com/courses">Open SAP</a></td>
-      <td>BI</td>
+      <td>034</td>
+      <td>20141016</td>
+      <td>32:00</td>
+      <td>Big Data in Education</td>
+      <td><a href="https://www.coursera.org/course/bigdata-edu">Columbia University</a></td>
+      <td>Big Data</td>
   </tr>
   <tr>
-      <td>037</td>
-      <td>20141120</td>
-      <td>40:00</td>
-      <td><a href="https://www.coursera.org/learn/intro-to-big-data">Introduction to Data Science</a></td>
-      <td><a href="https://www.coursera.org/">University of Washington</a></td>
-      <td>Data Science</td>
-  </tr> 
+      <td>033</td>
+      <td>20141001</td>
+      <td>32:00</td>
+      <td>Data Analysis</td>
+      <td><a href="https://www.coursera.org/specializations/jhu-data-science">Johns Hopkins University</a></td>
+      <td>Data Analysis</td>
+  </tr>
 </table>
 
 <table border="1">
