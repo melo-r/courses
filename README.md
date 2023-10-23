@@ -683,10 +683,50 @@
       <th width=150>type</th>
   </tr>
   <tr>
-      <td>013</td>
+      <td>020</td>
+      <td>20070101</td>
+      <td>40:00</td>
+      <td>Report & Analysis Studio, Framework Manager</td>
+      <td><a href="https://www.ibm.com/br-pt/products/cognos-analytics">IBM Cognos Academic Initiative</a></td>
+      <td>BI Cognos</td>
+  </tr>
+  <tr>
+      <td>019</td>
+      <td>20070701</td>
+      <td>30:00</td>
+      <td>BPMN Business Process Modeling Notation (Treinamentos QB-111 e QB-131)</td>
+      <td><a href="https://www.ibm.com/products/rational-software-architect-designer">IBM Rational System</a></td>
+      <td>BPM</td>
+  </tr> 
+  <tr>
+      <td>018</td>
+      <td>20070401</td>
+      <td>32:00</td>
+      <td>Business Process Modelling ARIS Methodolgy</td>
+      <td><a href="https://www.softwareag.com/en_corporate.html">Software AG</a></td>
+      <td>BPM</td>
+  </tr> 
+  <tr>
+      <td>017</td>
+      <td>20110201</td>
+      <td>30:00</td>
+      <td><a href="https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/balanced-scorecard-4?oferta=102943">BSC Balanced Scorecard</a></td>
+      <td><a href="https://educacao-executiva.fgv.br/sp/sao-paulo">FGV</a></td>
+      <td>BSC</td>
+  </tr>
+  <tr>
+      <td>016</td>
+      <td>20110115</td>
+      <td>32:00</td>
+      <td>BPM Business Process Management</td>
+      <td><a href="http://www.nextg.com.br/">INTEL Next Generation Center</a></td>
+      <td>BPM</td>
+  </tr>
+  <tr>
+      <td>015</td>
       <td>20110101</td>
       <td>16:00</td>
-      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">2778 Writing Queries using SQL 2008 Transact-SQL</a></td>
+      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">6232 Implementação de Banco de Dados</a></td>
       <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">Bras e Figueiredo</a></td>
       <td>MS SQL 2008</td>
   </tr>
@@ -699,53 +739,13 @@
       <td>MS SQL 2008</td>
   </tr>
   <tr>
-      <td>015</td>
+      <td>013</td>
       <td>20110101</td>
       <td>16:00</td>
-      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">6232 Implementação de Banco de Dados</a></td>
+      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">2778 Writing Queries using SQL 2008 Transact-SQL</a></td>
       <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">Bras e Figueiredo</a></td>
       <td>MS SQL 2008</td>
   </tr>
-  <tr>
-      <td>016</td>
-      <td>20110115</td>
-      <td>32:00</td>
-      <td>BPM Business Process Management</td>
-      <td><a href="http://www.nextg.com.br/">INTEL Next Generation Center</a></td>
-      <td>BPM</td>
-  </tr>
-  <tr>
-      <td>017</td>
-      <td>20110201</td>
-      <td>30:00</td>
-      <td><a href="https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/balanced-scorecard-4?oferta=102943">BSC Balanced Scorecard</a></td>
-      <td><a href="https://educacao-executiva.fgv.br/sp/sao-paulo">FGV</a></td>
-      <td>BSC</td>
-  </tr>
-  <tr>
-      <td>018</td>
-      <td>20070401</td>
-      <td>32:00</td>
-      <td>Business Process Modelling ARIS Methodolgy</td>
-      <td><a href="https://www.softwareag.com/en_corporate.html">Software AG</a></td>
-      <td>BPM</td>
-  </tr> 
-  <tr>
-      <td>019</td>
-      <td>20070701</td>
-      <td>30:00</td>
-      <td>BPMN Business Process Modeling Notation (Treinamentos QB-111 e QB-131)</td>
-      <td><a href="https://www.ibm.com/products/rational-software-architect-designer">IBM Rational System</a></td>
-      <td>BPM</td>
-  </tr> 
-  <tr>
-      <td>020</td>
-      <td>20070101</td>
-      <td>40:00</td>
-      <td>Report & Analysis Studio, Framework Manager</td>
-      <td><a href="https://www.ibm.com/br-pt/products/cognos-analytics">IBM Cognos Academic Initiative</a></td>
-      <td>BI Cognos</td>
-  </tr> 
 </table>
 
 <table border="1">
