@@ -759,43 +759,51 @@
       <th width=150>type</th>
   </tr>
   <tr>
-      <td>001</td>
-      <td>20040821</td>
-      <td>34:00</td>
-      <td><a href="https://inexh.com.br/curso/dl/">DL Desenvolvimento e Liderança</a></td>
-      <td><a href="https://inexh.com.br">INEXH Atibaia</a></td>
-      <td>Desenv Pessoal</td>
-  </tr>
-  <tr>
-      <td>002</td>
-      <td>20051010</td>
-      <td>01:00</td>
-      <td>Palestrante Convidado V Semana Administração</td>
-      <td><a href="https://www.unasp.br/">UNASP</a></td>
-      <td>Palestra</td>
-  </tr>
-  <tr>
-      <td>003</td>
-      <td>20060327</td>
-      <td>16:00</td>
-      <td><a href="https://www.dalecarnegie.com/pt-br/courses/195?franchise_id=58">Alta Performance em Vendas</a></td>
-      <td><a href="https://www.dalecarnegie.com">Dale Carnegie Training</a></td>
-      <td>Vendas</td>
-  </tr>
-  <tr>
-      <td>004</td>
-      <td>20061201</td>
+      <td>012</td>
+      <td>20100701</td>
       <td>32:00</td>
+      <td>Framework</td>
+      <td><a href="https://www.totvs.com/">Universidade TOTVS</a></td>
+      <td>Framework</td>
+  </tr>
+  <tr>
+      <td>011</td>
+      <td>20100101</td>
+      <td>64:00</td>
+      <td>BI,ECM,ERP</td>
+      <td><a href="https://www.totvs.com/">Universidade TOTVS</a></td>
+      <td>BI,ECM,ERP</td>
+  </tr>
+  <tr>
+      <td>010</td>
+      <td>20080303</td>
+      <td>80:00</td>
+      <td>Workshop Capacitação Vendas Datasul BI</td>
+      <td><a href="https://datasul.com.br/">Datasul Santiago-Chile</a></td>
+      <td>BI</td>
+  </tr>
+  <tr>
+      <td>009</td>
+      <td>20070701</td>
+      <td>40:00</td>
       <td>Business Intelligence, CRM, ERP</td>
-      <td><a href="http://www.nextg.com.br/">INTEL Next Generation Center</a></td>
+      <td><a href="https://datasul.com.br/">Universidade Datasul</a></td>
       <td>BI,CRM,ERP</td>
   </tr>
   <tr>
-      <td>005</td>
-      <td>20070101</td>
-      <td>60:00</td>
-      <td><a href="https://sebrae.com.br/sites/PortalSebrae">Sebrae, Endeavor, HSM, KLA</a></td>
-      <td><a href="https://endeavor.org.br/">Treinamentos e Seminários</a></td>
+      <td>008</td>
+      <td>20070601</td>
+      <td>32:00</td>
+      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">MS SQL Server 2005 Cursos 2779 e 2880</a></td>
+      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">Bras e Figueiredo</a></td>
+      <td>MS SQL 2005</td>
+  </tr>
+  <tr>
+      <td>007</td>
+      <td>20070201</td>
+      <td>40:00</td>
+      <td>Visão Sistemica e Gerenciamento de Projetos</td>
+      <td><a href="https://datasul.com.br/">Universidade Datasul</a></td>
       <td>Treinamentos</td>
   </tr>
   <tr>
@@ -807,52 +815,44 @@
       <td>BI</td>
   </tr> 
   <tr>
-      <td>007</td>
-      <td>20070201</td>
-      <td>40:00</td>
-      <td>Visão Sistemica e Gerenciamento de Projetos</td>
-      <td><a href="https://datasul.com.br/">Universidade Datasul</a></td>
+      <td>005</td>
+      <td>20070101</td>
+      <td>60:00</td>
+      <td><a href="https://sebrae.com.br/sites/PortalSebrae">Sebrae, Endeavor, HSM, KLA</a></td>
+      <td><a href="https://endeavor.org.br/">Treinamentos e Seminários</a></td>
       <td>Treinamentos</td>
   </tr>
   <tr>
-      <td>008</td>
-      <td>20070601</td>
+      <td>004</td>
+      <td>20061201</td>
       <td>32:00</td>
-      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">MS SQL Server 2005 Cursos 2779 e 2880</a></td>
-      <td><a href="https://www.emagister.com.br/bras-figueiredo-cursos-79734-centrodetalles.htm">Bras e Figueiredo</a></td>
-      <td>MS SQL 2005</td>
-  </tr>
-  <tr>
-      <td>009</td>
-      <td>20070701</td>
-      <td>40:00</td>
       <td>Business Intelligence, CRM, ERP</td>
-      <td><a href="https://datasul.com.br/">Universidade Datasul</a></td>
+      <td><a href="http://www.nextg.com.br/">INTEL Next Generation Center</a></td>
       <td>BI,CRM,ERP</td>
   </tr>
   <tr>
-      <td>010</td>
-      <td>20080303</td>
-      <td>80:00</td>
-      <td>Workshop Capacitação Vendas Datasul BI</td>
-      <td><a href="https://datasul.com.br/">Datasul Santiago-Chile</a></td>
-      <td>BI</td>
+      <td>003</td>
+      <td>20060327</td>
+      <td>16:00</td>
+      <td><a href="https://www.dalecarnegie.com/pt-br/courses/195?franchise_id=58">Alta Performance em Vendas</a></td>
+      <td><a href="https://www.dalecarnegie.com">Dale Carnegie Training</a></td>
+      <td>Vendas</td>
   </tr>
   <tr>
-      <td>011</td>
-      <td>20100101</td>
-      <td>64:00</td>
-      <td>BI,ECM,ERP</td>
-      <td><a href="https://www.totvs.com/">Universidade TOTVS</a></td>
-      <td>BI,ECM,ERP</td>
+      <td>002</td>
+      <td>20051010</td>
+      <td>01:00</td>
+      <td>Palestrante Convidado V Semana Administração</td>
+      <td><a href="https://www.unasp.br/">UNASP</a></td>
+      <td>Palestra</td>
   </tr>
   <tr>
-      <td>012</td>
-      <td>20100701</td>
-      <td>32:00</td>
-      <td>Framework</td>
-      <td><a href="https://www.totvs.com/">Universidade TOTVS</a></td>
-      <td>Framework</td>
+      <td>001</td>
+      <td>20040821</td>
+      <td>34:00</td>
+      <td><a href="https://inexh.com.br/curso/dl/">DL Desenvolvimento e Liderança</a></td>
+      <td><a href="https://inexh.com.br">INEXH Atibaia</a></td>
+      <td>Desenv Pessoal</td>
   </tr>
 </table>
 
