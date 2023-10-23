@@ -313,6 +313,7 @@
   </tr>  
 </table>
 
+<br><br><br><br><br><br><br><br><br><br>
 
 <table border="1">
   <caption><b>2019</b></caption>
@@ -353,8 +354,6 @@
       <td>BI</td>
   </tr>
 </table>
-
-<br><br><br><br><br><br><br><br><br><br>
 
 <table border="1">
   <caption><b>2017</b></caption>
