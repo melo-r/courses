@@ -23,22 +23,7 @@
       <th width=250>institution</th>
       <th width=150>type</th>
   </tr>
-  <tr>
-      <td>008</td>
-      <td>20200517</td>
-      <td>04:00</td>
-      <td><a href="https://learn.datacamp.com/courses/introduction-to-data-engineering">Introduction do Data Engineering</a></td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/b8588d8eea22e28ca9c8f4c6ab74598eca57d234">Datacamp</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/008%20Introduction%20do%20Data%20Enginnering.png">Data Engineer</td>
-  </tr>
-  <tr>
-      <td>009</td>
-      <td>20200520</td>
-      <td>02:00</td>
-      <td><a href="https://learn.datacamp.com/courses/intermediate-importing-data-in-python">Intermediate Importing Data in Python</a></td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/84f24f9fbfe68f38209ea045f798483110515ed3">Datacamp</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/009%20Intermediate%20Importing%20Data%20in%20Python.png">Python</td>
-  </tr>
+  
   <tr>
       <td>010</td>
       <td>20200508</td>
@@ -270,6 +255,23 @@
       <td><a href="https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science">Python Fundamentos para Análise de Dados</a></td>
       <td><a href="https://www.datascienceacademy.com.br/">Data Science Academy</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/038%20Python%20Fundamentos%20para%20An%C3%A1lise%20de%20Dados.png">Python</td>
+  </tr>
+  <br>
+  <tr>
+      <td>061</td>
+      <td>20200520</td>
+      <td>02:00</td>
+      <td><a href="https://learn.datacamp.com/courses/intermediate-importing-data-in-python">Intermediate Importing Data in Python</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/84f24f9fbfe68f38209ea045f798483110515ed3">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/061%20Intermediate%20Importing%20Data%20in%20Python.png">Python</td>
+  </tr>
+  <tr>
+      <td>060</td>
+      <td>20200517</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/introduction-to-data-engineering">Introduction do Data Engineering</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/b8588d8eea22e28ca9c8f4c6ab74598eca57d234">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/060%20Introduction%20do%20Data%20Enginnering.png">Data Engineer</td>
   </tr>
   <tr>
       <td>059</td>
