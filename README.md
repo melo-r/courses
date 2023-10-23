@@ -23,14 +23,6 @@
       <th width=250>institution</th>
       <th width=150>type</th>
   </tr>
-  <tr>
-      <td>003</td>
-      <td>20200428</td>
-      <td>01:20</td>
-      <td><a href="https://www.linkedin.com/learning/kafka-essential-training">Kafka Essential Training</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/3d10db4b40a97dad86394f8dc0f85f03986eb2745fc90d2d656e7d8713957c4d">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/003%20Kafka%20Essential%20Training.png">Kafka</a></td>
-  </tr>
   <tr>  
       <td>004</td>
       <td>20200516</td>
@@ -310,10 +302,19 @@
       <td><a href="https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science">Python Fundamentos para Análise de Dados</a></td>
       <td><a href="https://www.datascienceacademy.com.br/">Data Science Academy</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/038%20Python%20Fundamentos%20para%20An%C3%A1lise%20de%20Dados.png">Python</td>
-  </tr>  
+  </tr>
+  <tr>
+      <td>055</td>
+      <td>20200428</td>
+      <td>01:20</td>
+      <td><a href="https://www.linkedin.com/learning/kafka-essential-training">Kafka Essential Training</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/3d10db4b40a97dad86394f8dc0f85f03986eb2745fc90d2d656e7d8713957c4d">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/055%20Kafka%20Essential%20Training.png">Kafka</a></td>
+  </tr>
+        
 </table>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <table border="1">
   <caption><b>2019</b></caption>
