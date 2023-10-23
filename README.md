@@ -23,22 +23,6 @@
       <th width=250>institution</th>
       <th width=150>type</th>
   </tr>
-  <tr>  
-      <td>004</td>
-      <td>20200516</td>
-      <td>01:50</td>
-      <td><a href="https://www.linkedin.com/learning/transitioning-from-data-warehousing-to-big-data">Transitioning from DW to Big Data</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/d858f1f701dc3df12f7ba43bad64b184e79b397261c614d9d90d3740e81415e2">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/004%20Transitioning%20from%20Data%20Warehousing%20to%20Big%20Data.png">Big Data</a></td>
-  </tr>
-  <tr>
-      <td>005</td>
-      <td>20200514</td>
-      <td>07:32</td>
-      <td><a href="https://www.linkedin.com/learning/learn-apache-kafka-for-beginners-2019">Learn Apache Kafka for Beginners</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/46070217dfd1ce21366e84e608aecc8078fb44602e8f6196f280396a86ec9193">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/005%20Learn%20Apache%20Kafka%20for%20Beginners.png">Kafka</a></td>
-  </tr>
   <tr>
       <td>006</td>
       <td>20200518</td>
@@ -303,6 +287,22 @@
       <td><a href="https://www.datascienceacademy.com.br/">Data Science Academy</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/038%20Python%20Fundamentos%20para%20An%C3%A1lise%20de%20Dados.png">Python</td>
   </tr>
+  <tr>
+      <td>057</td>
+      <td>20200514</td>
+      <td>07:32</td>
+      <td><a href="https://www.linkedin.com/learning/learn-apache-kafka-for-beginners-2019">Learn Apache Kafka for Beginners</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/46070217dfd1ce21366e84e608aecc8078fb44602e8f6196f280396a86ec9193">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/057%20Learn%20Apache%20Kafka%20for%20Beginners.png">Kafka</a></td>
+  </tr>        
+  <tr>  
+      <td>056</td>
+      <td>20200516</td>
+      <td>01:50</td>
+      <td><a href="https://www.linkedin.com/learning/transitioning-from-data-warehousing-to-big-data">Transitioning from DW to Big Data</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/d858f1f701dc3df12f7ba43bad64b184e79b397261c614d9d90d3740e81415e2">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/056%20Transitioning%20from%20Data%20Warehousing%20to%20Big%20Data.png">Big Data</a></td>
+  </tr>      
   <tr>
       <td>055</td>
       <td>20200428</td>
