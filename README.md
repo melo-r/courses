@@ -367,83 +367,11 @@
       <th width=150>type</th>
   </tr>
   <tr>
-      <td>041</td>
-      <td>20170721</td>
-      <td>42:00</td>
-      <td><a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Introdução Ciência da Computação com Python P1</a></td>
-      <td><a href="https://www.coursera.org/search?query=universidade%20de%20s%C3%A3o%20paulo">USP Universidade São Paulo</a></td>
-      <td>Python</td>
-  </tr>
-  <tr>
-      <td>042</td>
-      <td>20170810</td>
-      <td>10:00</td>
-      <td><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/gestao/emasp/cursos/index.php?p=239248">Ciencia de Dados em Governo Aberto</a></td>
-      <td>EMASP Mobi Lab</td>
-      <td>Workshop</td>
-  </tr>
-  <tr>
-      <td>043</td>
-      <td>20171001</td>
-      <td>08:00</td>
-      <td><a href="https://www.coursera.org/learn/introduction-mongodb/home/info">Introduction to MongoDB Analytics</a></td>
-      <td><a href="https://www.coursera.org">Coursera</a></td>
-      <td>MongoDB</td>
-  </tr>
-  <tr>
-      <td>044</td>
-      <td>20171007</td>
-      <td>11:00</td>
-      <td><a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6">Curso de Python 3 - Mundo 1: Fundamentos</a></td>
-      <td>Curso em video</td>
-      <td>Python</td>
-  </tr>
-  <tr>
-      <td>045</td>
-      <td>20171011</td>
-      <td>02:37</td>
-      <td><a href="https://learn.microsoft.com/en-us/training/paths/get-started-power-bi/">Introduction to Power BI</a></td>
-      <td><a href="https://powerbi.microsoft.com/pt-br/learning/">Microsoft Learning</a></td>
-      <td>Power BI</td>
-  </tr>
-  <tr>
-      <td>046</td>
-      <td>20171017</td>
-      <td>40:00</td>
-      <td><a href="https://www.edx.org/course/analyzing-visualizing-data-power-bi-microsoft-dat207x-7">Analyzing and Visualizing Data with Power BI</a></td>
-      <td><a href="https://www.edx.org/course/data-analysis-in-power-bi?index=product&queryID=52f36a226436ff30e908ccb07e92d560">EDX</a></td>
-      <td>Power BI</td>
-  </tr> 
-  <tr>
-      <td>047</td>
-      <td>20171101</td>
-      <td>12:00</td>
-      <td><a href="https://learn.mongodb.com/learning-paths/introduction-to-mongodb">M001 MongoDB Basics</a></td>
-      <td><a href="https://learn.mongodb.com/catalog">MongoDB University</a></td>
-      <td>MongoDB</td>
-  </tr>
-  <tr>
-      <td>048</td>
-      <td>20171111</td>
-      <td>16:00</td>
-      <td><a href="https://cloudplatformonline.com/Summit-SaoPaulo-2017-About-wl.html">GCP Google Cloud Plataform Summit</a></td>
-      <td><a href="https://cloud.google.com/learn/certification?hl=pt-br">Google</a></td>
-      <td>GCP</td>
-  </tr>
-  <tr>
-      <td>049</td>
-      <td>20171107</td>
-      <td>54:00</td>
-      <td><a href="https://www.datascienceacademy.com.br/pages/curso-microsoft-power-bi-para-data-science">Microsoft Power BI para Data Science</a></td>
-      <td><a href="https://www.datascienceacademy.com.br">Data Science Academy</a></td>
-      <td>Power BI</td>
-  </tr>
-  <tr>
-      <td>050</td>
-      <td>20171122</td>
+      <td>052</td>
+      <td>20171212</td>
       <td>30:00</td>
-      <td><a href="https://www.ibm.com/blogs/ibm-comunica/ibm-bluehack-conta-com-desafio-da-onu-para-combater-o-trafico-de-pessoas/">IBM Blue Hack Desafio Hackathon</a></td>
-      <td><a href="https://www.ibm.com/br-pt">IBM</a></td>
+      <td><a href="https://www.microsofttech.com.br/participe-do-open-source-bootcamp-hack-bot-edition/">Microsoft Open Source Bootcamp Hack-a-bot</a></td>
+      <td><a href="https://www.microsoft.com/pt-br/">Microsoft</a></td>
       <td>Hackathon</td>
   </tr>
   <tr>
@@ -455,12 +383,84 @@
       <td>MongoDB</td>
   </tr>
   <tr>
-      <td>052</td>
-      <td>20171212</td>
+      <td>050</td>
+      <td>20171122</td>
       <td>30:00</td>
-      <td><a href="https://www.microsofttech.com.br/participe-do-open-source-bootcamp-hack-bot-edition/">Microsoft Open Source Bootcamp Hack-a-bot</a></td>
-      <td><a href="https://www.microsoft.com/pt-br/">Microsoft</a></td>
+      <td><a href="https://www.ibm.com/blogs/ibm-comunica/ibm-bluehack-conta-com-desafio-da-onu-para-combater-o-trafico-de-pessoas/">IBM Blue Hack Desafio Hackathon</a></td>
+      <td><a href="https://www.ibm.com/br-pt">IBM</a></td>
       <td>Hackathon</td>
+  </tr>
+  <tr>
+      <td>049</td>
+      <td>20171107</td>
+      <td>54:00</td>
+      <td><a href="https://www.datascienceacademy.com.br/pages/curso-microsoft-power-bi-para-data-science">Microsoft Power BI para Data Science</a></td>
+      <td><a href="https://www.datascienceacademy.com.br">Data Science Academy</a></td>
+      <td>Power BI</td>
+  </tr>
+  <tr>
+      <td>048</td>
+      <td>20171111</td>
+      <td>16:00</td>
+      <td><a href="https://cloudplatformonline.com/Summit-SaoPaulo-2017-About-wl.html">GCP Google Cloud Plataform Summit</a></td>
+      <td><a href="https://cloud.google.com/learn/certification?hl=pt-br">Google</a></td>
+      <td>GCP</td>
+  </tr>
+  <tr>
+      <td>047</td>
+      <td>20171101</td>
+      <td>12:00</td>
+      <td><a href="https://learn.mongodb.com/learning-paths/introduction-to-mongodb">M001 MongoDB Basics</a></td>
+      <td><a href="https://learn.mongodb.com/catalog">MongoDB University</a></td>
+      <td>MongoDB</td>
+  </tr>
+  <tr>
+      <td>046</td>
+      <td>20171017</td>
+      <td>40:00</td>
+      <td><a href="https://www.edx.org/course/analyzing-visualizing-data-power-bi-microsoft-dat207x-7">Analyzing and Visualizing Data with Power BI</a></td>
+      <td><a href="https://www.edx.org/course/data-analysis-in-power-bi?index=product&queryID=52f36a226436ff30e908ccb07e92d560">EDX</a></td>
+      <td>Power BI</td>
+  </tr> 
+  <tr>
+      <td>045</td>
+      <td>20171011</td>
+      <td>02:37</td>
+      <td><a href="https://learn.microsoft.com/en-us/training/paths/get-started-power-bi/">Introduction to Power BI</a></td>
+      <td><a href="https://powerbi.microsoft.com/pt-br/learning/">Microsoft Learning</a></td>
+      <td>Power BI</td>
+  </tr>
+  <tr>
+      <td>044</td>
+      <td>20171007</td>
+      <td>11:00</td>
+      <td><a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6">Curso de Python 3 - Mundo 1: Fundamentos</a></td>
+      <td>Curso em video</td>
+      <td>Python</td>
+  </tr>
+  <tr>
+      <td>043</td>
+      <td>20171001</td>
+      <td>08:00</td>
+      <td><a href="https://www.coursera.org/learn/introduction-mongodb/home/info">Introduction to MongoDB Analytics</a></td>
+      <td><a href="https://www.coursera.org">Coursera</a></td>
+      <td>MongoDB</td>
+  </tr>
+  <tr>
+      <td>042</td>
+      <td>20170810</td>
+      <td>10:00</td>
+      <td><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/gestao/emasp/cursos/index.php?p=239248">Ciencia de Dados em Governo Aberto</a></td>
+      <td>EMASP Mobi Lab</td>
+      <td>Workshop</td>
+  </tr>
+  <tr>
+      <td>041</td>
+      <td>20170721</td>
+      <td>42:00</td>
+      <td><a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Introdução Ciência da Computação com Python P1</a></td>
+      <td><a href="https://www.coursera.org/search?query=universidade%20de%20s%C3%A3o%20paulo">USP Universidade São Paulo</a></td>
+      <td>Python</td>
   </tr>
 </table>
 
