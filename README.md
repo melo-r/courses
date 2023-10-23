@@ -563,20 +563,28 @@
       <th width=150>type</th>
   </tr>
   <tr>
-      <td>027</td>
-      <td>20130601</td>
-      <td>48:00</td>
-      <td>Softtek Process-Six Sigma, CMMI, Decision Matrix</td>
-      <td><a href="https://www.softtek.com/pt/">Softtek</a></td>
-      <td>Process</td>
-  </tr>
-  <tr>
-      <td>028</td>
-      <td>20130616</td>
+      <td>032</td>
+      <td>20130909</td>
       <td>40:00</td>
-      <td>SAP BO Building reports with the SAP Business</td>
-      <td><a href="https://www.softtek.com/pt/">Softtek</a></td>
-      <td>BI</td>
+      <td><a href="https://open.sap.com/course/mobile1">Introduction to Mobile Solution Development</a></td>
+      <td><a href="https://open.sap.com/courses">Open SAP</a></td>
+      <td>Mobile</td>
+  </tr> 
+  <tr>
+      <td>031</td>
+      <td>20130820</td>
+      <td>40:00</td>
+      <td><a href="https://open.hpi.de/course/imdb2013">In-Memory Data Management 2013</a></td>
+      <td><a href="https://open.hpi.de/">HPI Hasso Plattner</a></td>
+      <td>Big Data</td>
+  </tr> 
+  <tr>
+      <td>030</td>
+      <td>20130515</td>
+      <td>40:00</td>
+      <td><a href="https://open.sap.com/course/hana1">Software Development on SAP HANA</a></td>
+      <td><a href="https://open.sap.com/courses">Open SAP</a></td>
+      <td>HANA</td>
   </tr>
   <tr>
       <td>029</td>
@@ -587,29 +595,21 @@
       <td>HANA</td>
   </tr>
   <tr>
-      <td>030</td>
-      <td>20130515</td>
+      <td>028</td>
+      <td>20130616</td>
       <td>40:00</td>
-      <td><a href="https://open.sap.com/course/hana1">Software Development on SAP HANA</a></td>
-      <td><a href="https://open.sap.com/courses">Open SAP</a></td>
-      <td>HANA</td>
+      <td>SAP BO Building reports with the SAP Business</td>
+      <td><a href="https://www.softtek.com/pt/">Softtek</a></td>
+      <td>BI</td>
   </tr>
   <tr>
-      <td>031</td>
-      <td>20130820</td>
-      <td>40:00</td>
-      <td><a href="https://open.hpi.de/course/imdb2013">In-Memory Data Management 2013</a></td>
-      <td><a href="https://open.hpi.de/">HPI Hasso Plattner</a></td>
-      <td>Big Data</td>
-  </tr> 
-  <tr>
-      <td>032</td>
-      <td>20130909</td>
-      <td>40:00</td>
-      <td><a href="https://open.sap.com/course/mobile1">Introduction to Mobile Solution Development</a></td>
-      <td><a href="https://open.sap.com/courses">Open SAP</a></td>
-      <td>Mobile</td>
-  </tr> 
+      <td>027</td>
+      <td>20130601</td>
+      <td>48:00</td>
+      <td>Softtek Process-Six Sigma, CMMI, Decision Matrix</td>
+      <td><a href="https://www.softtek.com/pt/">Softtek</a></td>
+      <td>Process</td>
+  </tr>
 </table>
 
 <table border="1">
