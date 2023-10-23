@@ -24,22 +24,6 @@
       <th width=150>type</th>
   </tr>
   <tr>
-      <td>006</td>
-      <td>20200518</td>
-      <td>04:00</td>
-      <td><a href="https://learn.datacamp.com/courses/introduction-to-pyspark">Introduction to PySpark</a></td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/fa6abdcbb2cacf93f9451c6cc74da19cdedb1bc1">Datacamp</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/006%20Introduction%20to%20PySpark.png">PySpark</td>
-  </tr>
-  <tr>
-      <td>007</td>
-      <td>20200519</td>
-      <td>03:00</td>
-      <td><a href="https://learn.datacamp.com/courses/introduction-to-importing-data-in-python">Introduction to Importing Data in Python</a></td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/292ec41751312ed628388d5ad0c6ff51c936fe30">Datacamp</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/007%20Introduction%20to%20Importing%20Data%20in%20Python.png">Python</td>
-  </tr>
-  <tr>
       <td>008</td>
       <td>20200517</td>
       <td>04:00</td>
@@ -288,6 +272,22 @@
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/038%20Python%20Fundamentos%20para%20An%C3%A1lise%20de%20Dados.png">Python</td>
   </tr>
   <tr>
+      <td>059</td>
+      <td>20200519</td>
+      <td>03:00</td>
+      <td><a href="https://learn.datacamp.com/courses/introduction-to-importing-data-in-python">Introduction to Importing Data in Python</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/292ec41751312ed628388d5ad0c6ff51c936fe30">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/059%20Introduction%20to%20Importing%20Data%20in%20Python.png">Python</td>
+  </tr>
+  <tr>
+      <td>058</td>
+      <td>20200518</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/introduction-to-pyspark">Introduction to PySpark</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/fa6abdcbb2cacf93f9451c6cc74da19cdedb1bc1">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/058%20Introduction%20to%20PySpark.png">PySpark</td>
+  </tr>     
+  <tr>
       <td>057</td>
       <td>20200514</td>
       <td>07:32</td>
@@ -311,11 +311,8 @@
       <td><a href="https://www.linkedin.com/learning/certificates/3d10db4b40a97dad86394f8dc0f85f03986eb2745fc90d2d656e7d8713957c4d">LinkedIn Learning</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/055%20Kafka%20Essential%20Training.png">Kafka</a></td>
   </tr>
-        
 </table>
-
-<br><br><br><br><br>
-
+        
 <table border="1">
   <caption><b>2019</b></caption>
   <tr>
