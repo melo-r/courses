@@ -27,38 +27,6 @@
   </tr>
   
   <tr>
-      <td>019</td>
-      <td>20200514</td>
-      <td>01:27</td>
-      <td><a href="https://www.linkedin.com/learning/apache-spark-essential-training">Apache Spark Essential Training</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/c728d42742312a9aa404debf49878482ee9449917c40af7b1da6684a03978374">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/019%20Apache%20Spark%20Essential%20Training.png">Spark</td>
-  </tr>
-  <tr>
-      <td>020</td>
-      <td>20200502</td>
-      <td>04:30</td>
-      <td><a href="https://www.udemy.com/course/learning-apache-hive/">Apache Hadoop EcoSystem-Hive</a></td>
-      <td><a href="https://www.udemy.com/certificate/UC-43fdd42c-0d2b-422b-b2c8-708e131edae5/">Udemy</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/020%20Apache%20Hadoop%20EcoSystem-Hive.png">Hadoop</td>
-  </tr>
-  <tr>
-      <td>021</td>
-      <td>20200601</td>
-      <td>01:20</td>
-      <td><a href="https://www.linkedin.com/learning/nosql-data-modeling-essential-training">NoSQL Data Modeling Essential Training</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/4d18b3676fa63ba6f11ff2a3407d6c325773db485dfab0b9ec2dc594d4ed3d1f">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/021%20NoSQL%20Data%20Modeling%20Essential%20Training.png">NoSQL</td>
-  </tr>
-  <tr>
-      <td>022</td>
-      <td>20200624</td>
-      <td>01:37</td>
-      <td><a href="https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering">Architecting Big Data Applications: Batch Mode Application Engineering</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/0622503d80fbde0a3adba0939b07265cf29ac80ca5296ed46dba0bc6e1ba9d98">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/022%20Architecting%20Big%20Data%20Applications-Batch%20Mode%20Application%20Engineering.png">Big Data</td>
-  </tr>
-  <tr>
       <td>023</td>
       <td>20200617</td>
       <td>01:09</td>
@@ -186,7 +154,38 @@
       <td><a href="https://www.datascienceacademy.com.br/">Data Science Academy</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/038%20Python%20Fundamentos%20para%20An%C3%A1lise%20de%20Dados.png">Python</td>
   </tr>
-
+  <tr>
+      <td>074</td>
+      <td>20200624</td>
+      <td>01:37</td>
+      <td><a href="https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering">Architecting Big Data Applications: Batch Mode Application Engineering</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/0622503d80fbde0a3adba0939b07265cf29ac80ca5296ed46dba0bc6e1ba9d98">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/074%20Architecting%20Big%20Data%20Applications-Batch%20Mode%20Application%20Engineering.png">Big Data</td>
+  </tr>
+  <tr>
+      <td>073</td>
+      <td>20200601</td>
+      <td>01:20</td>
+      <td><a href="https://www.linkedin.com/learning/nosql-data-modeling-essential-training">NoSQL Data Modeling Essential Training</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/4d18b3676fa63ba6f11ff2a3407d6c325773db485dfab0b9ec2dc594d4ed3d1f">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/073%20NoSQL%20Data%20Modeling%20Essential%20Training.png">NoSQL</td>
+  </tr> 
+  <tr>
+      <td>072</td>
+      <td>20200502</td>
+      <td>04:30</td>
+      <td><a href="https://www.udemy.com/course/learning-apache-hive/">Apache Hadoop EcoSystem-Hive</a></td>
+      <td><a href="https://www.udemy.com/certificate/UC-43fdd42c-0d2b-422b-b2c8-708e131edae5/">Udemy</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/072%20Apache%20Hadoop%20EcoSystem-Hive.png">Hadoop</td>
+  </tr>
+ <tr>
+      <td>071</td>
+      <td>20200514</td>
+      <td>01:27</td>
+      <td><a href="https://www.linkedin.com/learning/apache-spark-essential-training">Apache Spark Essential Training</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/c728d42742312a9aa404debf49878482ee9449917c40af7b1da6684a03978374">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/071%20Apache%20Spark%20Essential%20Training.png">Spark</td>
+  </tr>
   <tr>
       <td>070</td>
       <td>20200510</td>
