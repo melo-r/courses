@@ -12,7 +12,9 @@
   <a href="https://www.linkedin.com/learning/programming-foundations-real-world-examples">051 2021JUN 13 Programming_Foundations_Real-World_Examples</a><br> 
   <a href="https://www.linkedin.com/learning/python-object-oriented-programming">050 2021JUN 12 OOP Python Object-Oriented Programming</a><br>
   <a href="https://www.simplilearn.com/big-data-and-analytics/python-for-data-science-training">049 2021MAY 11 Data Science with Python</a><br>
-<br>
+
+<br><br><br>
+  
 <table border="1">
   <caption><b>2020</b></caption>
   <tr>
@@ -24,22 +26,6 @@
       <th width=150>type</th>
   </tr>
   
-  <tr>
-      <td>014</td>
-      <td>20200522</td>
-      <td>04:00</td>
-      <td><a href="https://learn.datacamp.com/courses/cleaning-data-with-pyspark">Cleaning Data with PySpark</a></td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/b4334ef9fd0e2fe80317f8916a0ab092a6584863">Datacamp</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/014%20Cleaning%20Data%20with%20PySpark.png">PySpark</td>
-  </tr>
-  <tr>
-      <td>015</td>
-      <td>20200521</td>
-      <td>04:00</td>
-      <td><a href="https://learn.datacamp.com/courses/big-data-fundamentals-with-pyspark">Big Data Fundamentals with PySpark</a></td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/390ba3ba360b3bc52eeb4553303c54a6b96fcf1f">Datacamp</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/015%20Big%20Data%20Fundamentals%20with%20PySpark.png">PySpark</td>
-  </tr>
   <tr>
       <td>016</td>
       <td>20200520</td>
@@ -224,6 +210,22 @@
       <td><a href="https://www.datascienceacademy.com.br/">Data Science Academy</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/038%20Python%20Fundamentos%20para%20An%C3%A1lise%20de%20Dados.png">Python</td>
   </tr>
+  <tr>
+      <td>067</td>
+      <td>20200521</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/big-data-fundamentals-with-pyspark">Big Data Fundamentals with PySpark</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/390ba3ba360b3bc52eeb4553303c54a6b96fcf1f">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/067%20Big%20Data%20Fundamentals%20with%20PySpark.png">PySpark</td>
+  </tr>
+  <tr>
+      <td>066</td>
+      <td>20200522</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/cleaning-data-with-pyspark">Cleaning Data with PySpark</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/b4334ef9fd0e2fe80317f8916a0ab092a6584863">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/066%20Cleaning%20Data%20with%20PySpark.png">PySpark</td>
+  </tr>       
   <tr>
       <td>065</td>
       <td>20200506</td>
