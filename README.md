@@ -25,22 +25,6 @@
   </tr>
   
   <tr>
-      <td>012</td>
-      <td>20200502</td>
-      <td>01:33</td>
-      <td><a href="https://cloud.contentraven.com/confluent/channeldetail/apache-kafka-fundamentals-and-accreditation">Confluent Fundamentals Apache Kafka</a></td>
-      <td><a href="https://www.confluent.io/">Confluent</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/012%20Confluent%20Fundamentals%20for%20Apache%20Kafka.png">Kafka</td>
-  </tr>
-  <tr>
-      <td>013</td>
-      <td>20200506</td>
-      <td>03:13</td>
-      <td><a href="https://www.linkedin.com/learning/cloud-hadoop-scaling-apache-spark">Cloud Hadoop: Scaling Apache Spark</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/4113012eeaeceefa8f5bbbd69d7051af4d696457f1f551be8691e20c806eba22">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/013%20Cloud%20Hadoop-Scaling%20Apache%20Spark.png">Spark</td>
-  </tr>
-  <tr>
       <td>014</td>
       <td>20200522</td>
       <td>04:00</td>
@@ -240,6 +224,22 @@
       <td><a href="https://www.datascienceacademy.com.br/">Data Science Academy</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/038%20Python%20Fundamentos%20para%20An%C3%A1lise%20de%20Dados.png">Python</td>
   </tr>
+  <tr>
+      <td>065</td>
+      <td>20200506</td>
+      <td>03:13</td>
+      <td><a href="https://www.linkedin.com/learning/cloud-hadoop-scaling-apache-spark">Cloud Hadoop: Scaling Apache Spark</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/4113012eeaeceefa8f5bbbd69d7051af4d696457f1f551be8691e20c806eba22">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/065%20Cloud%20Hadoop-Scaling%20Apache%20Spark.png">Spark</td>
+  </tr>
+  <tr>
+      <td>064</td>
+      <td>20200502</td>
+      <td>01:33</td>
+      <td><a href="https://cloud.contentraven.com/confluent/channeldetail/apache-kafka-fundamentals-and-accreditation">Confluent Fundamentals Apache Kafka</a></td>
+      <td><a href="https://www.confluent.io/">Confluent</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/064%20Confluent%20Fundamentals%20for%20Apache%20Kafka.png">Kafka</td>
+  </tr>        
   <tr>
       <td>063</td>
       <td>20200522</td>
