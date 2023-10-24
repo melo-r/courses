@@ -26,38 +26,8 @@
       <th width=150>type</th>
   </tr>
   
-  <tr>
-      <td>023</td>
-      <td>20200617</td>
-      <td>01:09</td>
-      <td><a href="https://www.linkedin.com/learning/gestao-agil-no-trabalho-como-planejar-com-historias-de-usuarios-ageis">Gestão Ágil no Trabalho: Como Planejar com Histórias de Usuários Ágeis</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/2b763cb73029d9855cc706f2354af6a41653f9f6ed9469202d2d367a620cdaf0">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/023%20Gest%C3%A3o%20%C3%81gil%20no%20Trabalho-Como%20Planejar%20com%20Hist%C3%B3rias%20de%20Usu%C3%A1rios%20%C3%81geis.png">Agile</td>
-  </tr>
-  <tr>
-      <td>024</td>
-      <td>20200614</td>
-      <td>02:52</td>
-      <td><a href="https://www.linkedin.com/learning/azure-spark-databricks-essential-training">Azure Spark Databricks Essential Training</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/1a1990855138696b8ab8de169dc6196fc752b8d3db4b19920aa386e91b6c4a72">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/024%20Azure%20Spark%20Databricks%20Essential%20Training.png">Spark</td>
-  </tr>
-  <tr>
-      <td>025</td>
-      <td>20200730</td>
-      <td>06:02</td>
-      <td><a href="https://www.linkedin.com/learning/python-for-data-science-essential-training-part-1">Python for Data Science Essential Training Part 1</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/0fbb83988cf67322cee5d5f60ac63fb1c8bdb4dc5d1f49ca3fc964cfb6802d02">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/025%20Python%20for%20Data%20Science%20Essential%20Training%20Part%201.png">Python</td>
-  </tr>
-  <tr>
-      <td>026</td>
-      <td>20200808</td>
-      <td>02:28</td>
-      <td><a href="https://www.linkedin.com/learning/sql-server-machine-learning-services-python">SQL Server Machine Learning Services: Python</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/0516c9b11d72a8c567b1160a3098000f906082dd88e23b8e7eb7311153ff0ad5">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/026%20SQL%20Server%20Machine%20Learning%20Services-Python.png">Python</td>
-  </tr>  
+
+  
   <tr>
       <td>027</td>
       <td>20200823</td>
@@ -154,6 +124,38 @@
       <td><a href="https://www.datascienceacademy.com.br/">Data Science Academy</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/038%20Python%20Fundamentos%20para%20An%C3%A1lise%20de%20Dados.png">Python</td>
   </tr>
+  <tr>
+      <td>078</td>
+      <td>20200808</td>
+      <td>02:28</td>
+      <td><a href="https://www.linkedin.com/learning/sql-server-machine-learning-services-python">SQL Server Machine Learning Services: Python</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/0516c9b11d72a8c567b1160a3098000f906082dd88e23b8e7eb7311153ff0ad5">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/078%20SQL%20Server%20Machine%20Learning%20Services-Python.png">Python</td>
+  </tr>
+  <tr>
+      <td>077</td>
+      <td>20200730</td>
+      <td>06:02</td>
+      <td><a href="https://www.linkedin.com/learning/python-for-data-science-essential-training-part-1">Python for Data Science Essential Training Part 1</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/0fbb83988cf67322cee5d5f60ac63fb1c8bdb4dc5d1f49ca3fc964cfb6802d02">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/077%20Python%20for%20Data%20Science%20Essential%20Training%20Part%201.png">Python</td>
+  </tr>
+  <tr>
+      <td>076</td>
+      <td>20200614</td>
+      <td>02:52</td>
+      <td><a href="https://www.linkedin.com/learning/azure-spark-databricks-essential-training">Azure Spark Databricks Essential Training</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/1a1990855138696b8ab8de169dc6196fc752b8d3db4b19920aa386e91b6c4a72">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/076%20Azure%20Spark%20Databricks%20Essential%20Training.png">Spark</td>
+  </tr>
+  <tr>
+      <td>075</td>
+      <td>20200617</td>
+      <td>01:09</td>
+      <td><a href="https://www.linkedin.com/learning/gestao-agil-no-trabalho-como-planejar-com-historias-de-usuarios-ageis">Gestão Ágil no Trabalho: Como Planejar com Histórias de Usuários Ágeis</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/2b763cb73029d9855cc706f2354af6a41653f9f6ed9469202d2d367a620cdaf0">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/075%20Gest%C3%A3o%20%C3%81gil%20no%20Trabalho-Como%20Planejar%20com%20Hist%C3%B3rias%20de%20Usu%C3%A1rios%20%C3%81geis.png">Agile</td>
+  </tr>        
   <tr>
       <td>074</td>
       <td>20200624</td>
