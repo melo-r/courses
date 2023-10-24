@@ -27,30 +27,6 @@
   </tr>
   
   <tr>
-      <td>016</td>
-      <td>20200520</td>
-      <td>01:04</td>
-      <td><a href="https://www.linkedin.com/learning/architecting-big-data-applications-real-time-application-engineering">Architecting Big Data Applications: Real-Time Application Engineering</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/ba71fad73bb20015335d16f3ede234e36fca21fb4de76dc85aab862b11af6a34">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/016%20Architecting%20Big%20Data%20Applications%20Real-Time%20Application%20Engineering.png">Big Data</td>
-  </tr>
-  <tr>
-      <td>017</td>
-      <td>20200511</td>
-      <td>01:40</td>
-      <td><a href="https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-2017">Spark Essential Training: Big Data Engineering</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/df6e96107dc8df446697d904eac3754fcb0d5a9c350bd31990b184dd059d2729">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/017%20Apache%20Spark%20Essential%20Training-Big%20Data%20Engineering.png">Spark</td>
-  </tr>
-  <tr>
-      <td>018</td>
-      <td>20200510</td>
-      <td>01:53</td>
-      <td><a href="https://www.linkedin.com/learning/analyzing-big-data-with-hive">Analyzing Big Data with Hive</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/8ca4abd53afea025bdd99dfe86212af4b4d9f734c12b147a7e01b62c162ccd20">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/018%20Analyzing%20Big%20Data%20with%20Hive.png">Hive</td>
-  </tr>
-  <tr>
       <td>019</td>
       <td>20200514</td>
       <td>01:27</td>
@@ -210,6 +186,31 @@
       <td><a href="https://www.datascienceacademy.com.br/">Data Science Academy</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/038%20Python%20Fundamentos%20para%20An%C3%A1lise%20de%20Dados.png">Python</td>
   </tr>
+
+  <tr>
+      <td>070</td>
+      <td>20200510</td>
+      <td>01:53</td>
+      <td><a href="https://www.linkedin.com/learning/analyzing-big-data-with-hive">Analyzing Big Data with Hive</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/8ca4abd53afea025bdd99dfe86212af4b4d9f734c12b147a7e01b62c162ccd20">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/070%20Analyzing%20Big%20Data%20with%20Hive.png">Hive</td>
+  </tr>
+  <tr>
+      <td>069</td>
+      <td>20200511</td>
+      <td>01:40</td>
+      <td><a href="https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-2017">Spark Essential Training: Big Data Engineering</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/df6e96107dc8df446697d904eac3754fcb0d5a9c350bd31990b184dd059d2729">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/069%20Apache%20Spark%20Essential%20Training-Big%20Data%20Engineering.png">Spark</td>
+  </tr>        
+  <tr>
+      <td>068</td>
+      <td>20200520</td>
+      <td>01:04</td>
+      <td><a href="https://www.linkedin.com/learning/architecting-big-data-applications-real-time-application-engineering">Architecting Big Data Applications: Real-Time Application Engineering</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/ba71fad73bb20015335d16f3ede234e36fca21fb4de76dc85aab862b11af6a34">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/068%20Architecting%20Big%20Data%20Applications%20Real-Time%20Application%20Engineering.png">Big Data</td>
+  </tr> 
   <tr>
       <td>067</td>
       <td>20200521</td>
