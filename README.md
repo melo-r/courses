@@ -43,20 +43,20 @@
   </tr>          
   <tr>
       <td>088</td>
-      <td>20201030</td>
-      <td>02:27</td>
-      <td><a href="https://www.linkedin.com/learning/learning-python-2020">Learning Python (2020)</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/60ec12ab5590446adb45fc0a1750e8575466fc9668b66e0ef6e521d19eb622a0">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/088%20Learning%20Python%20(2020).png">Python</td>
-  </tr>  
-  <tr>
-      <td>087</td>
       <td>20201106</td>
       <td>03:08</td>
       <td><a href="https://www.linkedin.com/learning/scala-essential-training">Scala Essential Training</a></td>
       <td><a href="https://www.linkedin.com/learning/certificates/6effa8d6fe75d3463e2c12a181c7a2a40c0720aef350972f7250d222e11e1140">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/087%20Scala%20Essential%20Training.png">Scala</td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/088%20Scala%20Essential%20Training.png">Scala</td>
   </tr>        
+  <tr>
+      <td>087</td>
+      <td>20201030</td>
+      <td>02:27</td>
+      <td><a href="https://www.linkedin.com/learning/learning-python-2020">Learning Python (2020)</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/60ec12ab5590446adb45fc0a1750e8575466fc9668b66e0ef6e521d19eb622a0">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/087%20Learning%20Python%20(2020).png">Python</td>
+  </tr>  
   <tr>
       <td>086</td>
       <td>20200904</td>
