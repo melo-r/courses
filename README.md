@@ -29,38 +29,6 @@
 
   
   <tr>
-      <td>027</td>
-      <td>20200823</td>
-      <td>00:47</td>
-      <td><a href="https://www.linkedin.com/learning/python-for-data-science-tips-tricks-techniques">Python for Data Science Tips, Tricks, & Techniques</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/f3d5150baccfebbb5c71c7508c4e1454d4dc02ef2da94be62e1227eab5c64955">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/027%20Python%20for%20Data%20Science%20Tips%2C%20Tricks%2C%20%26%20Techniques.png">Python</td>
-  </tr>  
-  <tr>
-      <td>028</td>
-      <td>20200907</td>
-      <td>04:00</td>
-      <td><a href="https://learn.datacamp.com/courses/pandas-joins-for-spreadsheet-users">Pandas Joins for Spreadsheet Users</a></td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/2b4cd2c14bc10f7c17751fc880d5cfa1f07c5bba">Datacamp</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/028%20Pandas%20Joins%20for%20Spreadsheet%20Users.png">Pandas</td>
-  </tr>  
-  <tr>
-      <td>029</td>
-      <td>20200917</td>
-      <td>04:37</td>
-      <td><a href="https://www.linkedin.com/learning/python-essential-training-2018">Python Essential Training (2018)</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/cf905f1eec999d4b8dd8aabbf38a63d0d85dfe4620a2d138885274da71c7567e">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/029%20Python%20Essential%20Training%20(2018).png">Python</td>
-  </tr>  
-  <tr>
-      <td>030</td>
-      <td>20200909</td>
-      <td>04:00</td>
-      <td><a href="https://learn.datacamp.com/courses/web-scraping-with-python">Web Scraping in Python</a></td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/bd36865d0c25e1b0437230ef8e877a64660a6498">Datacamp</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/030%20Web%20Scraping%20in%20Python.png">Python</td>
-  </tr>  
-  <tr>
       <td>031</td>
       <td>20200909</td>
       <td>04:00</td>
@@ -124,6 +92,38 @@
       <td><a href="https://www.datascienceacademy.com.br/">Data Science Academy</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/038%20Python%20Fundamentos%20para%20An%C3%A1lise%20de%20Dados.png">Python</td>
   </tr>
+  <tr>
+      <td>082</td>
+      <td>20200909</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/web-scraping-with-python">Web Scraping in Python</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/bd36865d0c25e1b0437230ef8e877a64660a6498">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/082%20Web%20Scraping%20in%20Python.png">Python</td>
+  </tr>  
+  <tr>
+      <td>081</td>
+      <td>20200917</td>
+      <td>04:37</td>
+      <td><a href="https://www.linkedin.com/learning/python-essential-training-2018">Python Essential Training (2018)</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/cf905f1eec999d4b8dd8aabbf38a63d0d85dfe4620a2d138885274da71c7567e">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/081%20Python%20Essential%20Training%20(2018).png">Python</td>
+  </tr>        
+  <tr>
+      <td>080</td>
+      <td>20200907</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/pandas-joins-for-spreadsheet-users">Pandas Joins for Spreadsheet Users</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/2b4cd2c14bc10f7c17751fc880d5cfa1f07c5bba">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/080%20Pandas%20Joins%20for%20Spreadsheet%20Users.png">Pandas</td>
+  </tr>  
+  <tr>
+      <td>079</td>
+      <td>20200823</td>
+      <td>00:47</td>
+      <td><a href="https://www.linkedin.com/learning/python-for-data-science-tips-tricks-techniques">Python for Data Science Tips, Tricks, & Techniques</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/f3d5150baccfebbb5c71c7508c4e1454d4dc02ef2da94be62e1227eab5c64955">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/079%20Python%20for%20Data%20Science%20Tips%2C%20Tricks%2C%20%26%20Techniques.png">Python</td>
+  </tr>          
   <tr>
       <td>078</td>
       <td>20200808</td>
