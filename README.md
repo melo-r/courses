@@ -24,41 +24,6 @@
       <th width=400>course</th>
       <th width=250>institution</th>
       <th width=150>type</th>
-  </tr>
-  
-
-  
-  <tr>
-      <td>031</td>
-      <td>20200909</td>
-      <td>04:00</td>
-      <td><a href="https://learn.datacamp.com/courses/manipulating-time-series-data-in-python">Manipulating Time Series Data in Python</a></td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/88ebbeb0be064ded06063b2be3c66a67e1cc0c6d">Datacamp</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/031%20Manipulating%20Time%20Series%20Data%20in%20Python.png">Python</td>
-  </tr>  
-  <tr>
-      <td>032</td>
-      <td>20200906</td>
-      <td>04:00</td>
-      <td><a href="https://learn.datacamp.com/courses/introduction-to-relational-databases-in-python">Introduction to Databases in Python</a></td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/5931fb56a6f43a37fa46b65a0e7134f07f94c608">Datacamp</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/032%20Introduction%20to%20Databases%20in%20Python.png">Python</td>
-  </tr>  
-  <tr>
-      <td>033</td>
-      <td>20200907</td>
-      <td>04:00</td>
-      <td><a href="https://learn.datacamp.com/courses/data-manipulation-with-pandas">Data Manipulation with pandas</a></td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/9694c45654a746326181d61d08f531d298f717d7">Datacamp</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/033%20Data%20Manipulation%20with%20pandas.png">Pandas</td>
-  </tr>  
-  <tr>
-      <td>034</td>
-      <td>20200904</td>
-      <td>04:00</td>
-      <td><a href="https://learn.datacamp.com/courses/building-data-engineering-pipelines-in-python">Building Data Engineering Pipelines in Python</a></td>
-      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/63437a854f45870aad316ee50cdf094c6e5d3a74">Datacamp</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/034%20Building%20Data%20Engineering%20Pipelines%20in%20Python.png">Python</td>
   </tr>  
   <tr>
       <td>035</td>
@@ -92,6 +57,38 @@
       <td><a href="https://www.datascienceacademy.com.br/">Data Science Academy</a></td>
       <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/038%20Python%20Fundamentos%20para%20An%C3%A1lise%20de%20Dados.png">Python</td>
   </tr>
+  <tr>
+      <td>086</td>
+      <td>20200904</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/building-data-engineering-pipelines-in-python">Building Data Engineering Pipelines in Python</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/63437a854f45870aad316ee50cdf094c6e5d3a74">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/086%20Building%20Data%20Engineering%20Pipelines%20in%20Python.png">Python</td>
+  </tr>
+  <tr>
+      <td>085</td>
+      <td>20200907</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/data-manipulation-with-pandas">Data Manipulation with pandas</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/9694c45654a746326181d61d08f531d298f717d7">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/085%20Data%20Manipulation%20with%20pandas.png">Pandas</td>
+  </tr>          
+  <tr>
+      <td>084</td>
+      <td>20200906</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/introduction-to-relational-databases-in-python">Introduction to Databases in Python</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/5931fb56a6f43a37fa46b65a0e7134f07f94c608">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/084%20Introduction%20to%20Databases%20in%20Python.png">Python</td>
+  </tr>  
+  <tr>
+      <td>083</td>
+      <td>20200909</td>
+      <td>04:00</td>
+      <td><a href="https://learn.datacamp.com/courses/manipulating-time-series-data-in-python">Manipulating Time Series Data in Python</a></td>
+      <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/88ebbeb0be064ded06063b2be3c66a67e1cc0c6d">Datacamp</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/083%20Manipulating%20Time%20Series%20Data%20in%20Python.png">Python</td>
+  </tr>          
   <tr>
       <td>082</td>
       <td>20200909</td>
