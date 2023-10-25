@@ -26,37 +26,37 @@
       <th width=150>type</th>
   </tr>  
   <tr>
-      <td>035</td>
-      <td>20201030</td>
-      <td>02:27</td>
-      <td><a href="https://www.linkedin.com/learning/learning-python-2020">Learning Python (2020)</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/60ec12ab5590446adb45fc0a1750e8575466fc9668b66e0ef6e521d19eb622a0">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/035%20Learning%20Python%20(2020).png">Python</td>
-  </tr>  
-  <tr>
-      <td>036</td>
-      <td>20201106</td>
-      <td>03:08</td>
-      <td><a href="https://www.linkedin.com/learning/scala-essential-training">Scala Essential Training</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/6effa8d6fe75d3463e2c12a181c7a2a40c0720aef350972f7250d222e11e1140">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/036%20Scala%20Essential%20Training.png">Scala</td>
-  </tr>  
-  <tr>
-      <td>037</td>
-      <td>20201111</td>
-      <td>01:36</td>
-      <td><a href="https://www.linkedin.com/learning/python-quick-start">Python Quick Start</a></td>
-      <td><a href="https://www.linkedin.com/learning/certificates/4aa9a8b02566950cd235b512ca2072badbea0fb9cc53b3eeed9b56201bdaff4c">LinkedIn Learning</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/037%20Python%20Quick%20Start.png">Python</td>
-  </tr>  
-  <tr>
-      <td>038</td>
+      <td>090</td>
       <td>20201124</td>
       <td>60:00</td>
       <td><a href="https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science">Python Fundamentos para Análise de Dados</a></td>
       <td><a href="https://www.datascienceacademy.com.br/">Data Science Academy</a></td>
-      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/038%20Python%20Fundamentos%20para%20An%C3%A1lise%20de%20Dados.png">Python</td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/090%20Python%20Fundamentos%20para%20An%C3%A1lise%20de%20Dados.png">Python</td>
   </tr>
+  <tr>
+      <td>089</td>
+      <td>20201111</td>
+      <td>01:36</td>
+      <td><a href="https://www.linkedin.com/learning/python-quick-start">Python Quick Start</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/4aa9a8b02566950cd235b512ca2072badbea0fb9cc53b3eeed9b56201bdaff4c">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/089%20Python%20Quick%20Start.png">Python</td>
+  </tr>          
+  <tr>
+      <td>088</td>
+      <td>20201030</td>
+      <td>02:27</td>
+      <td><a href="https://www.linkedin.com/learning/learning-python-2020">Learning Python (2020)</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/60ec12ab5590446adb45fc0a1750e8575466fc9668b66e0ef6e521d19eb622a0">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/088%20Learning%20Python%20(2020).png">Python</td>
+  </tr>  
+  <tr>
+      <td>087</td>
+      <td>20201106</td>
+      <td>03:08</td>
+      <td><a href="https://www.linkedin.com/learning/scala-essential-training">Scala Essential Training</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/6effa8d6fe75d3463e2c12a181c7a2a40c0720aef350972f7250d222e11e1140">LinkedIn Learning</a></td>
+      <td><a href="https://github.com/melo-r/courses/blob/main/000_certs/087%20Scala%20Essential%20Training.png">Scala</td>
+  </tr>        
   <tr>
       <td>086</td>
       <td>20200904</td>
