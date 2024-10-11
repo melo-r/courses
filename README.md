@@ -23,7 +23,7 @@
       <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
-      <th width=150>type</th>
+      <th width=150>certificate</th>
   </tr>  
   <tr>
       <td>090</td>
@@ -323,7 +323,7 @@
       <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
-      <th width=150>type</th>
+      <th width=150>certificate</th>
   </tr>
   <tr>
       <td>054</td>
@@ -343,7 +343,7 @@
       <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
-      <th width=150>type</th>
+      <th width=150>certificate</th>
   </tr>
   <tr>
       <td>053</td>
@@ -363,7 +363,7 @@
       <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
-      <th width=150>type</th>
+      <th width=150>certificate</th>
   </tr>
   <tr>
       <td>052</td>
@@ -471,7 +471,7 @@
       <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
-      <th width=150>type</th>
+      <th width=150>certificate</th>
   </tr>
   <tr>
       <td>040</td>
@@ -507,7 +507,7 @@
       <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
-      <th width=150>type</th>
+      <th width=150>certificate</th>
   </tr>
   <tr>
       <td>037</td>
@@ -559,7 +559,7 @@
       <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
-      <th width=150>type</th>
+      <th width=150>certificate</th>
   </tr>
   <tr>
       <td>032</td>
@@ -619,7 +619,7 @@
       <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
-      <th width=150>type</th>
+      <th width=150>certificate</th>
   </tr>
   <tr>
       <td>026</td>
@@ -679,7 +679,7 @@
       <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
-      <th width=150>type</th>
+      <th width=150>certificate</th>
   </tr>
   <tr>
       <td>020</td>
@@ -755,7 +755,7 @@
       <th>leng</th>
       <th width=400>course</th>
       <th width=250>institution</th>
-      <th width=150>type</th>
+      <th width=150>certificate</th>
   </tr>
   <tr>
       <td>012</td>
